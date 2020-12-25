@@ -1,0 +1,546 @@
+﻿
+ <ItemIndexlist>
+ 
+ 
+ 
+     <item>
+           <name>Ramadan Amal</name>
+           <namebangla> অনুশীলনী ১ </namebangla>
+           <nameenglish>What is Ramadan </nameenglish>
+           <imagename>formula.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile></banglafile>
+           <englishfile></englishfile>
+           <indexListfile>indexlist/GradeNineTenMathSolution.xml</indexListfile>
+           <folder></folder>
+           <banglaFileFolder></banglaFileFolder>
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+           <displaytype>document</displaytype>
+      </item>
+
+     <item>
+         <name>Ramadan Amal</name>
+         <namebangla>সময় মত সালাত আদায় করা </namebangla>
+         <nameenglish>Ramadan Fozilot </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>ramadan_fozilot_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>mainDrawerItem</name>
+         <namebangla>সহীহভাবে কুরআন শেখা  </namebangla>
+         <nameenglish>Ramadan Amal </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder></banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>mainDrawerItem</name>
+         <namebangla>সাহরী খাওয়া</namebangla>
+         <nameenglish>Iftar Dua </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder></banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>mainDrawerItem</name>
+         <namebangla>  সালাতুত তারাবীহ পড়া   </namebangla>
+         <nameenglish>Intension of fasting </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder></banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>mainDrawerItem</name>
+         <namebangla> বেশি বেশি কুরআন তিলাওয়াত করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  
+	   <item>
+         <name>mainDrawerItem</name>
+         <namebangla>শুকরিয়া আদায় করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> কল্যাণকর কাজ বেশি বেশি করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> সালাতুত তাহাজ্জুদ পড়া</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  
+	  
+	   <item>
+         <name>mainDrawerItem</name>
+         <namebangla> বেশি বেশি দান-সদাকাহ করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> উত্তম চরিত্র গঠনের অনুশীলন করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	
+		
+		 
+		 <item>
+         <name>mainDrawerItem</name>
+         <namebangla> দাওয়াতে দ্বীনের কাজ করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	 <item>
+         <name>mainDrawerItem</name>
+         <namebangla> সামর্থ্য থাকলে উমরা পালন করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> লাইলাতুল কদর তালাশ করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> বেশি বেশি দো‘আ ও কান্নাকাটি করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	   <item>
+         <name>mainDrawerItem</name>
+         <namebangla> ইফতার করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	   <item>
+         <name>mainDrawerItem</name>
+         <namebangla> ইফতার করানো</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	
+		
+		<item>
+         <name>mainDrawerItem</name>
+         <namebangla>তাওবাহ ও ইস্তেগফার করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+		 
+		 <item>
+         <name>mainDrawerItem</name>
+         <namebangla> তাকওয়া অর্জন করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	
+		
+		 <item>
+         <name>mainDrawerItem</name>
+         <namebangla> ফজরের পর সূর্যোদয় পর্যন্ত মাসজিদে অবস্থান করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla> ফিতরাহ দেয়া</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	
+		 <item>
+         <name>mainDrawerItem</name>
+         <namebangla> ফিতরাহ দেয়া</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla>আত্মীয়তার সম্পর্ক উন্নীত করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+		
+	
+		
+		 <item>
+         <name>mainDrawerItem</name>
+         <namebangla>কুরআন মুখস্থ বা হিফয করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla>আল্লাহর যিকর করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	
+		 
+		  <item>
+         <name>mainDrawerItem</name>
+         <namebangla>মিসওয়াক করা</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+         <name>mainDrawerItem</name>
+         <namebangla>একজন অপরজনকে কুরআন শুনানো</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	  <item>
+     <name>mainDrawerItem</name>
+     <namebangla>কুরআন বুঝা ও আমল করা</namebangla>
+     <nameenglish>Dua for Lailatul Kador  </nameenglish>
+     <imagename>img_flower.png</imagename>
+     <imagepath>images</imagepath>
+     <resourceid></resourceid>
+     <banglafile>shobe_kodor_dua_bangla.html</banglafile>
+     <englishfile></englishfile>
+     <folder></folder>
+     <banglaFileFolder>Bangla_Files</banglaFileFolder>
+     <englishFileFolder></englishFileFolder>
+     <url></url>
+     <actionid></actionid>
+     <display>true</display>
+     <displaytype>document</displaytype>
+ </item>
+
+     <item>
+         <name>mainDrawerItem</name>
+         <namebangla>Math Equatiom</namebangla>
+         <nameenglish>Dua for Lailatul Kador  </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>JqMathTest.html</banglafile>
+         <englishfile></englishfile>
+         <folder></folder>
+         <banglaFileFolder>Bangla_Files</banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+ </ItemIndexlist>

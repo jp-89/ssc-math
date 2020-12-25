@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+<title> Chapter 2 Question 5</title>
+</head>
+<body>
+
+<span class ="topic_explanation_color">
+৫। <span class ="question_color"> <BR>
+$ A = \{  x ∈ N:x^2 -5x+6=0\} $ <BR> 
+$ B = \{ 3,4\} $<BR>
+$ C = \{ 2,4\} $ <BR>
+
+(ক)  A সেটকে তালিকা পদ্ধতিতে প্রকাশ কর। <BR>
+(খ)  দেখাও যে, $P(B  ∩ C) = P(B) ∩ P(C)$ <BR>
+(গ) প্রমান কর  যে, $  A &times; (B  ∪ C) =    (A &times; B)  ∪ (B &times; C)$ 
+ </span><BR><BR>
+ 
+
+<span class ="question_color">
+(ক)  A সেটকে  তালিকা পদ্ধতিতে প্রকাশ কর। 
+</span><BR>
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+
+
+দেওয়া আছে,<BR>
+$ A = \{  x ∈ N:x^2 -5x+6=0\} $<BR>
+এখানে, <BR>
+ স্বাভাবিক  সংখ্যার সেট   <span class ="question_color"> $ N = \{ 1,2,3 ,4,5,.......\}$ </span><BR><BR>
+
+ $ x^2 -5x+6=0 $<BR>
+ বা, $ x^2 -2x-3x+6=0 $<BR>
+  বা, $ x(x -2)-3(x-2)=0 $<BR>
+  বা, $ (x -2)(x-3)=0 $<BR>
+    বা, $ (x -2)= 0 $<BR>
+	বা, $ x = 2 $<BR><BR>
+	আবার, <BR>
+	
+	$(x-3)=0 $<BR>
+	বা, $ x = 3 $<BR>
+	<span class ="decision_result_color">$ A = \{ 2,3\} $</span>
+	<BR><BR>
+	
+
+<span class ="question_color">
+(খ)  দেখাও যে, $P(B  ∩ C) = P(B) ∩ P(C)$ <BR>
+</span>
+
+<span class ="solveColor">সমাধান:</span><BR>
+
+$ B∩C = \{ 3,4\} ∩ \{ 2,4\}   $ <BR>
+ = <span class ="reason_color"> উভয় সেটের সাধারণ উপাদান সমুহ</span><BR>
+ = <span class ="decision_result_color">$\{4  \}   $ </span><BR><BR>
+ 
+ $ P(B∩C) = P(\{ 4\}    $ <BR>
+ = <span class ="reason_color">B সেটের উপসেট সমূহ </span><BR>
+ = <span class ="decision_result_color">$\{\{4  \}, \{ϕ  \} \} $ </span><BR><BR>
+ 
+ $ P(B) = P(\{ 3,4\}$ <BR>
+ = <span class ="reason_color">B সেটের উপসেট সমূহ </span><BR>
+ = <span class ="decision_result_color">$\{\{3 \},{\{4 \},{\{3,4 \}, {\{ϕ \}\}   $ </span><BR><BR>
+ 
+ 
+ $ P(C) = P(\{ 2,4\}$ <BR>
+ = <span class ="reason_color">C সেটের উপসেট সমূহ </span><BR>
+ = <span class ="decision_result_color">$\{\{2 \},{\{4 \},{\{2,4 \}, {\{ϕ \}\}   $ </span><BR><BR>
+ 
+ 
+ $ P(B) ∩ P(C) = \{\{3 \},{\{4 \},{\{3,4 \}, {\{ϕ \}\} ∩   $<BR>
+ $\{\{2 \},{\{4 \},{\{2,4 \}, {\{ϕ \}\}   $<BR>
+= <span class ="reason_color"> উভয় সেটের সাধারণ উপাদান সমুহ</span><BR>
+  = <span class ="decision_result_color">$\{\{4  \}, \{ϕ  \} \} $ </span><BR><BR>
+ 
+ <span class ="decision_result_color">অতএব, $P(B  ∩ C) = P(B) ∩ P(C)$</span> ( প্রমাণিত)<BR>
+ 
+ <BR><BR>
+
+<span class ="question_color">
+(গ) প্রমান কর  যে, $  A &times; (B  ∪ C) =    (A &times; B)  ∪ (B &times; C)$ 
+</span><BR>
+$ B∪C = \{ 3,4\} ∩ \{ 2,4\}   $ <BR>
+ = <span class ="reason_color">উভয় সেটের সম্মিলিত উপাদান সমূহ।</span> <BR>
+ = <span class ="decision_result_color">$\{2,3,4 \}   $ </span><BR><BR>
+
+
+ $A &times; (B∪C) =  \{ 2,3\} &times; \{2,3,4  \}  $<BR>
+ = <span class ="reason_color">উভয় সেটের কার্তেসীয় গুনজ সেট</span><BR>
+ = <span class ="decision_result_color">$\{\{2,2\},\{2,3\},\{2,4\}, $<BR>
+ &nbsp; &nbsp;$\{3,2\},\{3,3\},\{3,4\} \}$</span><BR><BR>
+ 
+ 
+  $A &times; B =  \{ 2,3\} &times; \{3,4  \}  $<BR>
+= <span class ="reason_color">উভয় সেটের কার্তেসীয় গুনজ সেট</span><BR>
+ = <span class ="decision_result_color">$\{\{2,3\},\{2,4\},\{3,3\},\{3,4\}\} $</span><BR><BR>
+ 
+   $A &times; C =  \{ 2,3\} &times; \{2,4  \}  $<BR>
+= <span class ="reason_color">উভয় সেটের কার্তেসীয় গুনজ সেট</span><BR>
+ = <span class ="decision_result_color">$\{\{2,2\},\{2,4\},\{3,2\},\{3,4\}\} $</span><BR><BR>
+ 
+ 
+ $(A &times; B)  ∪ (B &times; C) =  \{\{2,3\},\{2,4\},\{3,3\},\{3,4\}\}  ∪$<BR>
+ $\{\{2,2\},\{2,4\},\{3,2\},\{3,4\}\} $<BR>
+  = <span class ="reason_color">উভয় সেটের সম্মিলিত উপাদান সমূহ।</span> <BR>
+   = <span class ="decision_result_color">$\{\{2,2\},\{2,3\},\{2,4\},\{3,2\},\{3,3\},\{3,4\}\} $</span><BR>
+  <BR>
+  <span class ="decision_result_color">অতএব, $  A &times; (B  ∪ C) =    (A &times; B)  ∪ (B &times; C)$ </span> ( প্রমাণিত)<BR>
+  <BR><BR>
+ </span>
+  <BR><BR> <BR><BR>
+
+</body>
+</html>

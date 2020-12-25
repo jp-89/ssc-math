@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_10.js"></script>
+	<script src="../../js/Rectangle.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 10. Question 10</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas3 = document.getElementById('myCanvas3'); // canvas with id="myCanvas"
+ var context3 = canvas3.getContext('2d');
+
+  chapter10_Q_16(context3, 40,120,120,120,160,60,80,60);
+  
+ 
+ 
+}
+function drawRoof(context,x1,y1,intervalNum,intervalstep,length){
+var x2= x1+intervalstep;
+var y2= y1-length;
+for(i= 0;i<intervalNum;i++){
+  drawLineBetweenTwoPointsAxis(context,x1,y1,x2,y2,"blue");
+   x1= x2;
+   x2 = x1+intervalstep;
+ }
+
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+
+১০.১৬।   <span class ="question_color">
+একটি নদীর এক তীরে কোনো স্থানে দাড়িয়ে একজন লোক দেখলো যে, ঠিক সোজাসুজি অপর তীরে অবস্থিত 150 মিটার লম্বা একটি গাছের শীর্ষের উন্নতি কোণ $30^0$। লোকটি একটি নৌকাযোগে গাছটিকে লক্ষ্য করে যাত্রা শুরু করলো। কিন্ত পানির স্রোতের কারণে লোকটি গাছ থেকে 10 মিটার দূরে পৌছল।   </span>
+ <BR>
+  <span class ="sub_question_color">
+
+ (ক) উপরোক্ত বর্ণনাটি চিত্রের মাধ্যমে দেখাও।<BR>
+
+(খ) নদীর বিস্তার বর্ণনা কর।<BR>
+(গ) লোকটির যাত্রা স্থান থেকে অবতরণের স্থানের দূরত্ব নির্ণয় কর।<BR>
+ </span>
+ <table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<canvas id="myCanvas3" width="230" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<span class ="topic_explanation_color">
+<span class ="question_color">
+ (ক) উপরোক্ত বর্ণনাটি চিত্রের মাধ্যমে দেখাও।<BR>
+</span>
+<span class ="solveColor">সমাধান:</span><BR>
+মনে করি লোকটি  নদীর তীরে B  স্থানে দাড়িয়ে আছে। <BR>
+গাছটি সোজাসুজি অপর তীরে  A স্থানে অবস্থিত। <BR>
+
+<span class ="reason_color">গাছটির উচ্চতা AE  =  150 মিটার। </span><BR>
+<span class ="reason_color">BE  বরাবর  গাছের শীর্ষের উন্নতি কোণ $30^0$</span><BR>
+পানির স্রোতের কারণে লোকটি গাছ থেকে  10 মিটার দূরে O  বিন্দুতে পৌছল।<BR>
+<span class ="reason_color">অতএব, AO  =  10 মিটার।</span><BR>
+নদীর বিস্তার = AB <BR><BR>
+
+<span class ="question_color">
+(খ) নদীর বিস্তার বর্ণনা কর।<BR>
+</span>
+<span class ="solveColor">সমাধান:</span><BR>
+নদীর বিস্তার = AB <BR>
+গাছের শীর্ষের উন্নতি কোণ  = $30^0$<BR>
+এখানে ABE  একটি  সমকোণী ত্রিভুজ। <BR>
+AB অতিভুজ । <BR>
+আমরা জানি,<BR>
+<span class ="formula_color_2">${\text"লম্ব "}/{\text"ভূমি "} =tan30 $</span><br >
+বা, $ {AE }/{AB } = tan30 $<BR>
+বা, $ {150 }/{AB } = 1/{√3 $<BR>
+বা, $ AB =  150&times;√3 $<BR>
+বা, $ AB =  150&times;1.73205 $<BR>
+বা, $ AB =  259.808 $<BR>
+
+ <span class ="decision_result_color">
+অতএব, নদীর বিস্তার =  25 9.808   মিটার।<BR>
+</span>
+
+<BR><BR>
+
+<span class ="question_color">
+(গ) লোকটির যাত্রা স্থান থেকে অবতরণের স্থানের দূরত্ব নির্ণয় কর।<BR>
+</span>
+<span class ="solveColor">সমাধান:</span><BR>
+এখানে AOB  একটি  সমকোণী ত্রিভুজ। <BR>
+OB অতিভুজ । <BR>
+∠OAB =  এক সমকোণ। <BR>
+<span class ="reason_color">(উচ্চতা দেখানোর জন্য ∠OAB কোনটি  সমকোণ আকারে দেখানো সম্ভব হয়নি)</span><BR>
+<span class ="reason_color">আমরা জানি, পীথাগোরাসের সূত্রানুযায়ী,</span><BR>
+$OB^2 = AB^2 + AO^2$<BR>
+বা, $ OB = √{AB^2 + AO^2}$<BR>
+বা, $ OB = √{(25 9.808)^2 + (10)^2}$<BR>
+বা, $ OB = √{67500.197 + 100}$<BR>
+বা, $ OB = √{67600.197 }$<BR>
+বা, $ OB = 260$<BR>
+
+ <span class ="decision_result_color">
+অতএব, লোকটির যাত্রা স্থান থেকে অবতরণের স্থানের দূরত্ব = 260  মিটার।<BR>
+</span>
+
+</span>
+<BR><BR>
+</body>
+</html>

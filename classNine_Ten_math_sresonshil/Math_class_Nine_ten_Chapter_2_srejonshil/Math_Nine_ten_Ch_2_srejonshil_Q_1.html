@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+<title> Chapter 2 Question 1</title>
+</head>
+<body>
+
+<span class ="topic_explanation_color">
+ ১। <span class ="question_color"> $ U = \{1,2,3,4,5,6,7   \}  $<BR>
+ A = { $ x ∈ N:x^2 > 15 \text"এবং "  x^3 < 225 $ }<BR>
+ B = { $ x ∈ N:4 ≤x ≤7  $ } এবং<BR>
+ $ C = A ∪ B $  <BR>
+(ক)  A সেটটি  তালিকা পদ্ধতিতে প্রকাশ কর। <BR>
+(খ) উদ্দীপকের আলোকে প্রমান কর যে $ (A ∩ B)^' =  A^' ∪ B^' $<BR>
+(গ) C সেটের উপাদান সংখ্যা n হলে, দেখাও যে, P(C) এর উপাদান সংখ্যা $2^n $ 
+কে সমর্থন করে। 
+ </span><BR><BR>
+ 
+
+<span class ="question_color">
+(ক)  A সেটটি  তালিকা পদ্ধতিতে প্রকাশ কর। 
+</span><BR>
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+দেওয়া আছে,<BR>
+A = { $ x ∈ N:x^2 > 15 \text"এবং "  x^3 < 225 $ }<BR>
+এখানে, <BR>
+ স্বাভাবিক  সংখ্যার সেট   <span class ="question_color"> $ N = \{ 1,2,3 ,4,5,.......\}$ </span><BR><BR>
+<span class ="question_color">
+প্রশ্নটির সমাধানের জন্য  x  বিভিন্ন  মানের জন্য  $x^2 $এবং   $x ^3 $ মান নিম্নরূপ বের করি। </span><BR>
+    <table border="1" cellpadding="0" cellspacing="0">
+		<tr><td> &nbsp; x&nbsp; </td> <td>&nbsp;  $x^2$ &nbsp; </td> <td>&nbsp;  $x^3$&nbsp; </td><td>$ x^2 > 15 \text" এবং "  $ <BR> $ x^3  < 225 ? $ </td></tr>
+		<tr><td>&nbsp; 1&nbsp; </td> <td> &nbsp; 1&nbsp; </td> <td>&nbsp; 1&nbsp; </td><td> &nbsp;  না </td> </tr>
+		<tr><td>&nbsp; 2&nbsp; </td> <td> &nbsp; 4&nbsp; </td> <td>&nbsp; 8&nbsp; </td><td>&nbsp;  না </td></tr>
+		<tr><td>&nbsp;  3&nbsp; </td> <td>&nbsp; 9&nbsp; </td> <td>&nbsp; 27&nbsp; </td><td>&nbsp;  না  </td></tr>
+		<tr><td>&nbsp;  4&nbsp; </td> <td>&nbsp; 16&nbsp; </td> <td>&nbsp; 64&nbsp; </td><td><span class ="reason_color"> &nbsp;  হ্যাঁ  </span></td></tr>
+		<tr><td> &nbsp; 5&nbsp; </td> <td>&nbsp; 25&nbsp; </td> <td>&nbsp; 125&nbsp; </td><td> <span class ="reason_color"> &nbsp;  হ্যাঁ  </span> </td></tr>
+		<tr><td> &nbsp; 6&nbsp; </td> <td>&nbsp; 36&nbsp; </td> <td>&nbsp; 216&nbsp; </td><td> <span class ="reason_color"> &nbsp;  হ্যাঁ  </span>  </td></tr>
+		<tr><td> &nbsp; 7&nbsp; </td> <td>&nbsp; 49&nbsp; </td> <td>&nbsp; 343&nbsp; </td><td>&nbsp; না  </td></tr>
+    </table><BR>
+	উপরের তালিকা থেকে আমরা পাই ,<BR>
+	 <span class ="reason_color"> 
+	$ x^2 > 15 $  যখন  x ≥ 4 <BR>
+	$ x^3 < 225   $   যখন  x ≤ 6 <BR>
+	</span>
+	
+	শর্তানুসারে, <BR>
+	গ্রহণযোগ্য সংখ্যা সমূহ হল: 4 , 5 এবং 6 <BR>
+	<span class ="decision_result_color">∴  নির্ণেয় সেট  $A = \{4, 5, 6  \}$  </span>
+
+<BR><BR>
+<span class ="question_color">
+(খ) উদ্দীপকের আলোকে প্রমান কর যে $ (A ∩ B)^' =  A^' ∪ B^' $
+</span><BR>
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+দেওয়া আছে,<BR>
+ $ B = \{  x ∈ N:4 ≤x ≤7   \} $ এবং<BR>
+ 
+এখানে,  স্বাভাবিক  সংখ্যার সেট   <span class ="question_color"> $N = \{ 1,2,3 ,4,5,.......\} $</span><BR><BR>
+
+এখানে স্পষ্টত $ B = \{ 4,5,6,7\}$ <BR>
+$ A ∩ B =  \{4, 5, 6  \} ∩ \{ 4,5,6,7\} $ <BR>
+= <span class ="reason_color"> উভয় সেটের সাধারণ উপাদান সমুহ</span><BR>
+= $ \{ 4,5,6\} $<BR><BR>
+
+আমরা জানি, <BR>
+<span class ="reason_color"> $ (A ∩ B)^' = U - (A ∩ B) $</span><BR>
+ = $  \{1,2,3,4,5,6,7   \} - \{ 4,5,6\} $<BR>
+ = <span class ="reason_color"> উভয় সেটের অন্তর</span> <BR>
+ =<span class ="decision_result_color">  $\{1,2,3, 7\}$ </span><BR><BR>
+ 
+ আবার,<BR> 
+ $ A^' = U - A  $<BR>
+ =   $  \{1,2,3,4,5,6,7   \} - \{ 4,5,6,\} $<BR>
+ = <span class ="reason_color">$  \{1,2,3,7   \} $</span> <BR><BR>
+ 
+ আবার,<BR> 
+ $ B^' = U - B  $<BR>
+ =   $  \{1,2,3,4,5,6,7   \} - \{ 4,5,6,7\} $<BR>
+ = <span class ="reason_color">$  \{1,2,3 \} $ </span><BR><BR>
+ 
+এখন, <BR>
+<span class ="reason_color"> $ A^' U B^' =   \{1,2,3,7   \} U \{1,2,3 \} $</span><BR>
+ =  উভয় সেটের সম্মিলিত উপাদান সমূহ। <BR>
+ = <span class ="decision_result_color"> $\{1,2,3,7\}$ </span><BR><BR>
+ 
+ 
+ অতএব, <span class ="reason_color"> $ (A ∩ B)^' =  A^' ∪ B^' $</span> (প্রমাণিত)<BR>
+
+<BR>
+
+<span class ="question_color">
+(গ) C সেটের উপাদান সংখ্যা n হলে, দেখাও যে, P(C) এর উপাদান সংখ্যা $2^n $ 
+কে সমর্থন করে। 
+</span><BR>
+<span class ="solveColor">সমাধান:</span><BR>
+দেওয়া আছে, <BR>
+
+ $ C = A ∪ B $  <BR>
+ = $ \{4, 5, 6  \} ∪ \{ 4,5,6,7\} $  <BR>
+  = <span class ="reason_color">$ \{4, 5, 6, 7 \} $ </span> <BR><BR>
+  
+  এখন,<BR> 
+  $P(C) = C $ এর উপাদান সমূহ দিয়ে গঠিত সম্ভাব্য উপসেট সমূহ। <BR>  
+  =  <span class ="reason_color">$ \{4, 5, 6, 7 \} $   এর উপাদান সমূহ দিয়ে গঠিত সম্ভাব্য উপসেট সমূহ। </span><BR>
+  =  $\{ \{4\},\{ 5\}, \{6\}, \{7 \},$<BR>
+$  \{4,5 \}  , \{4,6 \}, \{4,7 \}, \{5,6 \},$<BR>
+   $  \{5,7 \} , \{6,7 \}, \{4,5,6 \}, \{4,5, 7 \},$<BR>
+$   \{5,6,7 \}, \{4,6,7 \}, \{4,5,6,7 \}, \{∅ \} \}$<BR><BR>
+
+ <span class ="reason_color">C সেটের উপাদান সংখ্যা 4  এবং </span><BR>
+ P(C) সেটের উপাদান সংখ্যা 32  <BR><BR>
+ 
+ এখন,  <span class ="reason_color">$ 2^4 = 32 $ </span><BR>
+  <span class ="decision_result_color">
+ অতএব, P(C) এর উপাদান সংখ্যা $2^n $  কে সমর্থন করে। 
+ </span>
+ 
+ 
+  <BR><BR>
+ </span>
+  <BR><BR> <BR><BR>
+
+</body>
+</html>

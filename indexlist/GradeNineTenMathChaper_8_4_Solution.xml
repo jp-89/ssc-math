@@ -1,0 +1,114 @@
+﻿
+ <ItemIndexlist>
+     <item>
+         <name>Chapter_8_4_solution</name>
+         <namebangla>প্রশ্ন ৮.৪.১</namebangla>
+         <nameenglish>Chapter 8.4 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_Q_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_4_solution</name>
+         <namebangla>প্রশ্ন ৮.৪.২</namebangla>
+         <nameenglish>Chapter 8.4 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_Q_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_4_solution</name>
+         <namebangla>প্রশ্ন ৮.৪.৩</namebangla>
+         <nameenglish>Chapter 8.4 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_Q_3.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_4_solution</name>
+         <namebangla>প্রশ্ন ৮.৪.৪</namebangla>
+         <nameenglish>Chapter 8.4 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_Q_4.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_4_solution</name>
+         <namebangla>প্রশ্ন ৮.৪.৫</namebangla>
+         <nameenglish>Chapter 8.4 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_Q_5.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+ </ItemIndexlist>

@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+	 <script src ="../../js/Circle.js"></script>
+	 <script src ="../../js/Rectangle.js"></script>
+	  <script src ="../../js/chapter_2_1.js"></script>
+	  <script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	
+
+	 
+	 <script type="application/javascript">
+  function functionsOnLoad(){
+    var canvas2 = document.getElementById('myCanvas2'); 
+    var context2 = canvas2.getContext('2d');
+	chapter_2_1_Q_12(context2,20,20,250,20,250,200,20,200);
+   
+}
+
+</script>
+
+
+<title> Chapter 2.1 Question 12</title>
+</head>
+<body onload="functionsOnLoad();">
+
+২.১.১২। <span class ="question_color"> 
+100 জন শিক্ষার্থীর মধ্যে কোনো পরীক্ষায় 65% শিক্ষার্থী  বাংলায়, 48% শিক্ষার্থী   বাংলা ও ইংরেজী উভয় বিষয়ে পাস্ করে এবং 15% শিক্ষার্থী  উভয় বিষয়ে ফেল করে। <BR>
+
+(ক) সংক্ষিপ্ত বিবরণসহ উপরের তথ্য গুলো ভেন চিত্রে প্রকাশ কর। <BR>
+(খ) শুধু বাংলায় ও ইংরেজিতে পাস্ করেছে তাদের সংখ্যা নির্ণয় কর। <BR>
+(গ) উভয় বিষয়ে পাস্ এবং ফেল সংখ্যাদ্বয়ের মৌলিক গুণনীয়ক সমূহের সেট দুইটির সংযোগ সেট নির্ণয় কর। 
+</span>
+<BR><BR>
+
+<span class ="question_color"> 
+(ক) সংক্ষিপ্ত বিবরণসহ উপরের তথ্য গুলো ভেন চিত্রে প্রকাশ কর। <BR>
+</span>
+<span class ="solveColor">সমাধান:</span><BR>
+<canvas id="myCanvas2" width="250" height="220">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+<BR>
+<span class ="topic_explanation_color">
+ধরি,<BR>
+এখানে 100 জন শিক্ষার্থীর সার্বিক সেট U  = 100 <BR>
+বাংলায় পাস্  শিক্ষার্থীর সেট = B  = 65 <BR>
+ইংরেজিতে পাস্  শিক্ষার্থীর সেট = E  <BR>
+শুধু  বাংলায় পাস্  শিক্ষার্থীর সেট  সেট = $P_1$  <BR>
+ বাংলা ও ইংরেজী উভয় বিষয়ে পাস্   শিক্ষার্থীর  সেট = $P_2$  = 48 <BR>
+শুধু ইংরেজিতে পাস্  শিক্ষার্থীর সেট = $P_3$  <BR>
+ উভয় বিষয়ে ফেল  শিক্ষার্থীর  সেট = $P_4$  = 15 <BR>
+মোট  পাস্  শিক্ষার্থীর সেট = $P_5$ <BR>
+
+</span>
+<BR>
+
+<span class ="question_color"> 
+(খ) শুধু বাংলায় ও ইংরেজিতে পাস্ করেছে তাদের সংখ্যা নির্ণয় কর। 
+</span>
+<BR>
+
+<span class ="topic_step_color">বাংলা ও ইংরেজী উভয় বিষয়ে পাস্ করে:</span><BR>
+ $P_2$  =  <span class ="reason_color">   B  এবং   E সেটের সাধারণ উপাদান    </span><BR>
+= B ∩ E <BR>
+= 48    <span class ="given_value_color">[দেওয়া আছে]</span><BR>
+<BR>
+
+<span class ="decision_result_color"> শুধু  বাংলায় পাস্ করে:</span><BR>
+
+$P_1$ = <span class ="reason_color">সেট B ও  সেট  $P_2$ এর অন্তর </span><BR>
+= B \ $P_2$<BR>
+= B - $P_2$ <BR>
+= 65-48 <BR>
+= 17<BR>
+
+<BR>
+
+
+<span class ="decision_result_color">উভয় বিষয়ে ফেল করে </span><BR>
+উভয় বিষয়ে ফেল  শিক্ষার্থীর  সেট = $P_4$   <BR>
+$P_4$  = 15   <span class ="given_value_color">[দেওয়া আছে]</span><BR> <BR>
+
+<span class ="decision_result_color">মোট  পাস্ করে: </span><BR>
+B ∪ E= $P_5$ = <span class ="reason_color">সার্বিক সেট  -  উভয় বিষয়ে ফেল  শিক্ষার্থীর  সেট  </span><BR> 
+= U \ $P_4$<BR>
+= U - $P_4$ <BR>
+= 100-15 <BR>
+= 85<BR><BR>
+
+<span class ="decision_result_color">শুধু ইংরেজিতে পাস্ করে: </span><BR>
+ $P_3$ = <span class ="reason_color">মোট  পাস্ করে -  ( শুধু  বাংলায় পাস্ করে + বাংলা ও ইংরেজী উভয় বিষয়ে পাস্ করে) </span><BR> 
+= (B ∪ E)- ( $P_1$ ∪ $P_2$)  <BR>
+= 85- (17+48) <BR>
+= 85-65 <BR>
+= 20<BR>
+<BR>
+
+
+<span class ="question_color"> 
+(গ) উভয় বিষয়ে পাস্ এবং ফেল সংখ্যাদ্বয়ের মৌলিক গুণনীয়ক সমূহের সেট দুইটির সংযোগ সেট নির্ণয় কর। 
+</span>
+<BR><BR>
+
+<span class ="topic_step_color">বাংলা ও ইংরেজী উভয় বিষয়ে পাস্ করে- $P_2$ </span><BR>
+ $P_2$  =  48    <span class ="given_value_color">[দেওয়া আছে]</span><BR>
+<span class ="reason_color">48  কে নিম্নোক্ত  আকারে প্রকাশ করা যায় </span><BR>
+48 = $1&times;48 $<BR>
+   = $2&times;24 $<BR>
+   = $3&times;16 $<BR>
+   = $4&times;12 $<BR>
+   = $6&times;8 $<BR>
+ <span class ="decision_result_color">অতএব, 48 এর মৌলিক গুণনীয়কের সেট :</span><BR>
+ A = {2,3}<BR><BR>
+
+
+ <span class ="topic_step_color">উভয় বিষয়ে ফেল করে- $P_4$ </span><BR>
+$P_4$  = 15   <span class ="given_value_color">[দেওয়া আছে]</span><BR> <BR>
+
+<span class ="reason_color">15  কে নিম্নোক্ত  আকারে প্রকাশ করা যায় </span><BR>
+15 = $1&times;15 $<BR>
+   = $3&times;5 $<BR>
+ 
+ <span class ="decision_result_color">অতএব, 15 এর মৌলিক গুণনীয়কের সেট :</span><BR>
+ B = {3,5}<BR><BR>
+ 
+ <span class ="topic_step_color">এখন A ও B এর সংযোগ সেট = A ∪ B </span><BR>
+ A ∪ B =   {2,3} ∪  {3,5} <BR>
+ = {3,5} <BR>
+
+ 
+  
+<BR><BR>
+
+
+</body>
+</html>

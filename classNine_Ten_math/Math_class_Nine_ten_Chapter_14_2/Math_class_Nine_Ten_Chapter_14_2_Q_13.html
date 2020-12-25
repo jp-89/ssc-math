@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/Circle.js"></script>
+	<script src ="../../js/Rectange.js"></script>
+	<script src ="../../js/chapter_14_2.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 14.2. Question 13</title>
+<script type="application/javascript">
+function functionsOnLoad(){
+  var canvas2 = document.getElementById('myCanvas2'); 
+ var context2 = canvas2.getContext('2d');
+ var canvas3 = document.getElementById('myCanvas3'); 
+ var context3 = canvas3.getContext('2d');
+   chapter_14_2_Q_13_pic1(context2, 100,90,40,150,150,150,true);
+ 
+ var canvas4 = document.getElementById('myCanvas4'); 
+ var context4 = canvas4.getContext('2d');
+   chapter_14_2_Q_13_pic2(context4, 100,90,40,150,150,150,true);
+ 
+ 
+}
+
+</script>
+</head>
+<body onload="functionsOnLoad();">
+
+
+১৪.২.১৩। <span class ="question_color">
+ABC এর A  এর সমদ্বিখণ্ডক AD, BC কে D বিন্দুতে ছেদ করেছে। DA এর সমান্তরাল CE রেখাংশ বর্ধিত BA বাহুকে E বিন্দুতে ছেদ করেছে। </span>
+<BR>
+<span class ="topic_explanation_color"> 
+<span class ="sub_question_color"> 
+ক.  তথ্য অনুসারে চিত্রটি অঙ্কন কর।<BR>
+খ.  প্রমাণ কর যে, $BD:DC=BA:AC $<BR>
+
+গ.  BC এর সমান্তরাল কোনো রেখাংশ AB  ও AC কে যথাক্রমে P ও Q বিন্দুতে ছেদ করলে,
+ প্রমাণ করতে যে, BD:DC=BP:CQ
+</span><BR><BR>
+
+
+<span class ="question_color">
+ক.  তথ্য অনুসারে চিত্রটি অঙ্কন কর। </span>
+<BR>
+ 
+ <table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<canvas id="myCanvas2" width="200" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+<td>
+<canvas id="myCanvas3" width="0" height="0">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<BR>
+
+<BR>
+
+<span class ="question_color">
+খ.  প্রমাণ কর যে, $BD:DC=BA:AC $ </span>
+<BR>
+
+<span class ="solveColor">সমাধান:</span><BR>
+
+<span class ="reason_color">∆BCE এ DA∥CE </span> <BR>
+<span class ="decision_result_color">∴ $ {BA}/{AE}={BD}/{DC} $ ...(1)
+</span><BR><BR>
+
+<span class ="reason_color">আবার, DA∥CE এবং AC   উহাদের ছেদক।</span><BR>
+অতএব, ∠DAC=∠ACE  (একান্তর কোণ) <BR>
+আবার,   ∠DAB= ∠DAC  (∠Aকোণের সমদ্বিখণ্ডক) <BR>
+<span class ="decision_result_color">অতএব, ∠ACE=∠DAB</span>
+<BR><BR>
+
+<span class ="reason_color">আবার,  DA∥CE এবং  BE  উহাদের ছেদক।</span><BR>
+অতএব, ∠DAB=∠AEC  (অনুরূপ কোণ) <BR>
+সুতরাং, আমরা পাই,<BR>
+∠ACE=∠AEC<BR>
+<span class ="reason_color">অতএব,  ∆ACD এ,</span><BR>
+AC=AE<BR>
+<span class ="reason_color">এখন, (1) সমীকরণে AC=AE মান  বসিয়ে পাই ,</span><BR>
+<span class ="decision_result_color">${BA}/{AC}={BD}/{DC}$</span>  ...(2)  (প্রমাণিত) <BR>
+
+<BR>
+<span class ="question_color">
+গ.  BC এর সমান্তরাল কোনো রেখাংশ AB  ও AC কে যথাক্রমে P ও Q বিন্দুতে ছেদ করলে,
+ প্রমাণ করতে যে, BD:DC=BP:CQ
+ </span><BR>
+ 
+  <table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<canvas id="myCanvas4" width="200" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+<td>
+<canvas id="myCanvas5" width="0" height="0">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+ <span class ="reason_color">∆ABC এ BC∥PQ </span> <BR>
+<span class ="decision_result_color">∴  ${AP}/{BP}={ AQ}/{CQ} $
+</span><BR><BR>
+
+ <span class ="reason_color">যোজন করিয়া পাই,</span><BR>
+বা, ${AP+BP}/{BP}={AQ+CQ} /{CQ} $<BR><BR>
+বা, ${AB}/{BP}={AC}/{CQ}  $<BR><BR>
+বা, ${AB}/{AC}={BP}/{CQ}  $<BR><BR>
+বা, ${BA}/{AC}={BP}/{CQ}  $<BR><BR>
+
+<span class ="reason_color">এখন, (2) সমীকরণ থেকে পাই,</span><BR>
+<span class ="decision_result_color">${BD }/ {DC}={BP}/{CQ} $</span> (প্রমাণিত)
+ 
+
+</span>
+<BR><BR><BR><BR>
+</body>
+</html>

@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Rectangle.js"></script>
+    <script src="../../js/Triangle.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_15_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 15. Question 1</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+ chapter_15_1_Q_1(context1, 20,90,160,90,20,30,true);
+
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+১৫.১। <span class ="question_color">ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে; নিচের কোন ক্ষেত্রে সমকোণী ত্রিভুজ অঙ্কন সম্ভব নয়?</span>
+ <BR>
+ <span class ="sub_question_color">
+ ক. 3 cm, 4 cm, 5 cm  <BR>
+খ. 6 cm, 8 cm, 10cm  <BR>
+গ. 5 cm, 7 cm, 9 cm  <BR>
+ঘ. 5 cm, 12 cm, 13 cm 
+</span><BR>
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+ <canvas id="myCanvas1" width="180" height="140">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+<span class ="topic_explanation_color"> 
+আমরা জানি,    সমকোণী ত্রিভুজের ক্ষেত্রে<BR>
+<span class ="formula_color_2">$\text"অতিভুজ"^2 =  \text"ভূমি "^2 + \text"লম্ব"^2   $ <BR>
+$AC^2 =  BC^2 + AB^2$ 
+</span><BR>
+এবং অতিভুজই বৃহত্তম বাহু।<BR>
+<span class ="topic_explanation_header">বুঝার সুবিধার্থে  প্রদত্ত  তথ্যগুলোকে টেবিল আকারে প্রকাশ করি।  এখানে বৃহত্তম বাহুকে  অতিভুজ AC এবং অন্য যেকোন   বাহুকে ভূমি অথবা লম্ব হিসাবে ধরি:</span>
+<BR>
+<table  bgcolor ="#84FFFF" border="1" cellpadding="0" cellspacing="0">
+<tr><td>প্রশ্ন</td><td>$AC^2 = BC^2 + AB^2$ ? </td><td>ত্রিভুজ অঙ্কন সম্ভব? </td></tr>
+<tr><td>ক</td><td>$5^2 = 4^2 + 3^2$ ?</td><td>হ্যাঁ  </td></tr>
+<tr><td>খ</td><td>$10^2 = 8^2 + 6^2$ ?</td><td>হ্যাঁ  </td></tr>
+<tr><td>গ</td><td>$9^2 = 7^2 + 5^2$ ?</td><td>না</td></tr>
+<tr><td>ঘ</td><td>$13^2 = 12^2 + 5^2$ ?</td><td>হ্যাঁ  </td></tr>
+</table>
+<BR>
+</span>
+<BR><BR><BR><BR>
+</body>
+</html>

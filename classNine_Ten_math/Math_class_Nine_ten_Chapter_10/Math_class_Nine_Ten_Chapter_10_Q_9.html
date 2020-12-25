@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_10.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 10. Question 10</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas3 = document.getElementById('myCanvas3'); // canvas with id="myCanvas"
+ var context3 = canvas3.getContext('2d');
+ chapter10_Q_9(context3, 30,40,30,140,150,140,true,100);
+  drawRoof(context3,30,40,12,10,10);
+ 
+ 
+}
+function drawRoof(context,x1,y1,intervalNum,intervalstep,length){
+var x2= x1+intervalstep;
+var y2= y1-length;
+for(i= 0;i<intervalNum;i++){
+  drawLineBetweenTwoPointsAxis(context,x1,y1,x2,y2,"blue");
+   x1= x2;
+   x2 = x1+intervalstep;
+ }
+
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+
+১০.৯।  <span class ="question_color"> 18 মিটার দৈর্ঘ্য একটি মই ভূমির সাথে $45^০ $ কোণ উৎপন্ন করে দেওয়ালের ছাদ স্পর্শ করে। 
+দেওয়ালটির উচ্চতা  নির্ণয় কর। </span>
+ <BR>
+ 
+ <table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<canvas id="myCanvas3" width="230" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<span class ="topic_explanation_color">
+<span class ="solveColor">সমাধান:</span><BR>
+ধরি, দেওয়ালের ছাদ AD <BR>
+ ভূমির সাথে C বিন্দুতে ছাদের   দিকে AC বরাবর  উন্নতি কোণ   45  ডিগ্রী। <BR>
+ মই  এর  দৈর্ঘ্য  AC =  18 মিটার<BR>
+দেওয়ালটির  উচ্চতা AB  = ?<BR>
+আমরা জানি,<BR>
+<span class ="formula_color_2">${\text"লম্ব "}/{\text"অতিভুজ"} = sin45 $</span><br >
+বা, $ {AB }/{AC } = sin45 $<BR>
+বা, $ {AB }/{AC } = sin45 $<BR>
+বা, $ AB  = AC &times;sin45 $<BR>
+বা,  $ AB  =18 &times;1/{√2} $<BR>
+বা, $ AB  ={18}/ {√2}$<BR>
+বা, $ AB  ={18}/ {1.4142}$<BR>
+বা, $ AB  =12.728 $<BR>
+<BR>
+ <span class ="reason_color">নির্ণেয়:</span><BR>
+
+<span class ="decision_result_color">  দেওয়ালটির উচ্চতা  12.728  মিটার(প্রায়)। </span><BR>
+<BR><BR><BR>
+</span>
+</body>
+</html>

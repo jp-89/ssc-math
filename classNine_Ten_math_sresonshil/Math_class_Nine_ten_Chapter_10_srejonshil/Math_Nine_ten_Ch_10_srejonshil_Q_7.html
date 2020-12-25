@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/Circle.js"></script>
+	<script src ="../../js/sreshonshil_chapter_10.js"></script>
+
+	<script>M.MathPlayer = false; M.trustHtml = true;</script> 
+<title>Chapter 10 Question 1</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas2 = document.getElementById('myCanvas2'); // canvas with id="myCanvas"
+ var context2 = canvas2.getContext('2d');
+  srejonShil_chapter_10_Q_7(context2, 80,140,80,210,190,210,true,100);
+ 
+   
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+
+<span class ="topic_explanation_color">
+৭। <span class ="question_color"> 
+রমিজ সাহেবের বাগানের একটি মেহগনি গাছ AB ঝড়ে D বিন্দুতে এমনভাবে ভেঙে গেল যে, সম্পূর্ণ বিচ্ছিন্ন না হয়ে গোড়া থেকে 5√3 মিটার দূরে C বিন্দুতে ভূমির সাথে  কোণ উৎপন্ন করে। 
+[$θ=30^০$ ]
+ <BR>
+ </span>
+
+
+ <span class ="sub_question_color"> 
+(ক)  তথ্যানুসারে আনুপাতিক চিত্র আঁক।<BR>
+(খ)দেখাও যে, $ (  {BD}/{BC} + {CD}/{BC} )^2 = {1+sinθ}/{1-sinθ} $ <BR>
+(গ) রমিজ সাহেব দন্ডায়মান অংশ দ্বারা ঘরে খুঁটি এবং ভাঙা অংশ দ্বারা তক্তা করতে চাইলেন।  খুঁটি ও তক্তার  দৈর্ঘ্য  কত হবে তা নির্ণয় কর। 
+
+ </span><BR><BR>
+
+ <span class ="solveColor">সমাধান:</span><BR>
+ 
+
+<span class ="question_color">
+(ক)  তথ্যানুসারে আনুপাতিক চিত্র আঁক।<BR>
+</span><BR>
+
+<canvas id="myCanvas2" width="220" height="230">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+	<BR>
+<ul class="liststyle">
+<span class ="decision_result_color">মনে করি,</span><BR>
+ <li> চিত্রে  AB একটি  মেহগনি গাছ। <BR>
+<li>একটি মেহগনি গাছটি D বিন্দুতে  ভেঙে গেল। অর্থাৎ গাছটি BD উচ্চতায় ভেঙে গেল।  <BR>
+<li> AD = CD = ভাঙা অংশ।<BR>
+<li> BD  দণ্ডায়মান অংশ। <BR>
+<li>  ভাঙা অংশ  ভূমির সাথে  এর  C বিন্দুতে $30^০$ কোণ  উৎপন্ন করে।<BR>
+<li> AD ভাঙা অংশ C  বিন্দুতে  মাটি স্পর্শ করে।<BR>
+<li>  সম্পূর্ণ গাছটির দৈর্ঘ্য = BD+AD = BD+ CD <BR>
+<li> C বিন্দুতে উন্নতি কোণ  ∠BCD=$30^০$<BR>
+<li> গোড়া থেকে C বিন্দুর দূরত্ব BC = 5√3 মিটার।
+ </ul>
+ <BR>
+
+ 
+
+<span class ="question_color">
+(খ)দেখাও যে, $ (  {BD}/{BC} + {CD}/{BC} )^2 = {1+sinθ}/{1-sinθ} $ <BR>
+</span><BR>
+<span class ="decision_result_color">চিত্র অনুসারে, </span><BR>
+${\text"BD"/{\text"BC"}= tan30$<BR><BR>
+বা, ${BD}/{BC}= 1/{√3}$ <BR><BR>
+বা, $BD={BC}/{√3}$<BR><BR>
+বা, $BD={5√3}/{√3}$<BR><BR>
+বা, $BD=5$<BR><BR>
+
+
+অতএব, <span class ="reason_color">দণ্ডায়মান অংশ BD = 5 মিটার।</span><BR><BR>
+
+
+<span class ="decision_result_color">আবার, চিত্র অনুসারে, </span><BR>
+${BC}/{CD}= cos30$<BR><BR>
+বা, ${BC}/{CD}={√3}/{2} $<BR><BR>
+বা, $CD=2&times; BC$<BR><BR>
+বা, $CD=2/{√3}&times;5√3$<BR><BR>
+বা, $CD=10$<BR><BR>
+অতএব,
+ <span class ="reason_color">ভাঙা অংশ CD  =  $ 10 $ মিটার।</span><BR>
+<BR>
+  
+  এখন,<BR>
+   <span class ="reason_color">$sinθ = sin30$</span><BR>
+   =$1/2$<BR><BR>
+   
+  এখন,<BR>   
+ <span class ="reason_color"> বামপক্ষ=   $ (  {BD}/{BC} + {CD}/{BC} )^2$</span><BR><BR>
+  <span class ="reason_color">মান বসিয়ে পাই,</span><BR>
+  =   $ (  {5}/{5√3} + {10}/{5√3} )^2$<BR><BR>
+  =   $ (  {5+10}/{5√3} )^2$<BR><BR>
+  =   $ (  {15}/{5√3} )^2$<BR><BR>
+  =   $ (  {3}/{√3} )^2$<BR><BR>
+  =   $  ({√3})^2$<BR><BR>
+    =   $ 3 $<BR><BR>
+	
+	<span class ="reason_color">  ডান পক্ষ=   $ {1+sinθ}/{1-sinθ}$</span><BR><BR>
+	  =   $ {1+1/2}/{1-1/2}$<BR><BR>
+	  =   $ {3/2}/{1/2}$<BR><BR>
+	    =   $ {3/2}&times;2$<BR><BR>
+		=   $ 3$<BR><BR>
+   
+অতএব, <span class ="reason_color">  বামপক্ষ=   ডান পক্ষ</span>(প্রমাণিত)<BR><BR>
+
+ <span class ="question_color">
+(গ) রমিজ সাহেব দন্ডায়মান অংশ দ্বারা ঘরে খুঁটি এবং ভাঙা অংশ দ্বারা তক্তা করতে চাইলেন।  খুঁটি ও তক্তার  দৈর্ঘ্য  কত হবে তা নির্ণয় কর। 
+
+</span><BR>
+উপরের সমাধান থেকে পাই,<BR>
+<span class ="reason_color">দণ্ডায়মান অংশ BD = 5 মিটার।</span><BR>
+<span class ="reason_color">ভাঙা অংশ CD  =  $ 10 $ মিটার।</span>
+
+
+
+
+ </span>
+  <BR><BR> <BR><BR>
+
+</body>
+</html>

@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+	 
+	 <script src ="../../js/Circle.js"></script>
+	 <script src ="../../js/Rectangle.js"></script>
+	  <script src ="../../js/chapter_2_2.js"></script>
+	  <script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	
+
+	 
+	 <script type="application/javascript">
+  function functionsOnLoad(){
+    var canvas2 = document.getElementById('myCanvas2'); 
+    var context2 = canvas2.getContext('2d');
+	chapter_2_2_Q_22(context2,20,20,250,20,250,200,20,200);
+   
+}
+
+</script>
+
+<title> Chapter 2.2 Question 22</title>
+</head>
+<body onload="functionsOnLoad();">
+<span class ="topic_explanation_color">
+২.২.২২। <span class ="question_color">
+ভেন চিত্রটি লক্ষ্য কর:<BR>
+</span>
+
+<canvas id="myCanvas2" width="250" height="220">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+<BR>
+
+<span class ="sub_question_color">
+ক)  B  সেটকে গঠন পদ্ধতিতে প্রকাশ কর। <BR>
+খ)  উদ্দীপক ব্যবহার করে,<BR>
+  $A ∪(B ∩ C ) = (A ∪B ) ∩ (A ∪ C ) $ <BR>
+  সম্পর্কটির সত্যতা যাচাই কর। <BR>
+গ)  $ S  = (B ∪ C)^c  &times; A $   হলে, ডোম  S  নির্ণয় কর।   <BR>
+
+</span>
+<BR>
+
+
+
+<span class ="question_color">
+২.২.২২ -ক)  B  সেটকে গঠন পদ্ধতিতে প্রকাশ কর। <BR>
+</span>
+
+<span class ="solveColor">সমাধান:</span><BR>
+<span class = "reason_color">প্রদত্ত  ভেন চিত্র থেকে পাই,</span><BR>
+<span class ="decision_result_color">সেট  $  B  = \{ 2 , 3, 5, 7\}$ </span><BR>
+<BR>
+অতএব,<BR>
+<span class ="decision_result_color">$ B = \{x+2: x $ <span class ="reason_color"> $\text" 0( শূন্য ) সহ  বেজোড় সংখ্যা এবং " x≥ 0  \text" এবং "  x ≤5  $ </span> $\} $</span><BR>
+
+
+
+
+<BR><BR>
+
+২.২.২২ -খ) <span class ="question_color">  উদ্দীপক ব্যবহার করে,<BR>
+  $A ∪(B ∩ C ) = (A ∪B ) ∩ (A ∪ C ) $ <BR>
+  সম্পর্কটির সত্যতা যাচাই কর। <BR>
+</span>
+
+ <span class = "reason_color"> B∩C  -  এর অৰ্থ হল, যে সমস্ত উপাদান সেট B এবং C সেট উভয়ই সেটে  আছে, সেই সমস্ত উপাদান নিয়ে গঠিত সেট। <BR>
+ অর্থাৎ সেট B এবং C সেটের সাধারণ উপাদান নিয়ে গঠিত সেট। <BR>
+ লক্ষ্য করলে দেখা যায় যে B সেট এবং C সেটের সাধারণ উপাদান হল: $\{3,5\}  $<BR>
+</span>
+
+সুতরাং,   <span class ="decision_result_color"> $  B∩C =  \{3,5 \}$ </span><BR>
+
+<BR>
+আবার,প্রদত্ত  ভেন চিত্রে লক্ষ্য করলে দেখা যায় যে,<BR>
+<span class = "reason_color">$A = \{1,2,3,4\}$ </span><BR><BR>
+
+অতএব,<BR>
+<span class = "reason_color"> বামপক্ষ = $A ∪(B ∪C )$</span><BR>
+ = $  \{1,2,3,4\} ∪  \{3,5\}$ <BR>
+ 
+ = <span class ="decision_result_color"> $ \{1,2,3,4,5\} $ </span><span class ="reason_color">উভয় সেটের সম্মিলিত উপাদান সমূহ </span><BR>
+<BR>
+
+প্রদত্ত  ভেন চিত্র থেকে পাই,<BR>
+<span class = "reason_color">
+$A ∪B  =   \{1,2,3,4,5,7\} $<BR>
+$A ∪ C  =   \{1,2,3,4,5,6\} $<BR>
+</span><BR>
+
+এখন,<BR>
+<span class = "reason_color"> ডানপক্ষ= $(A ∪B ) ∩ (A ∪ C ) $ </span><BR>
+= $ \{1,2,3,4,5,7\} ∩   \{1,2,3,4,5,6\} $<BR>
+= $\{1,2,3,4,5\}$ <span class ="reason_color">উভয় সেটের সাধারণ উপাদান</span>
+<BR><BR>
+অতএব,<BR>
+
+ <span class ="decision_result_color">বামপক্ষ = ডানপক্ষ</span>(সত্যতা যাচাই হল।)
+ <BR><BR>
+ 
+ <span class ="question_color">
+২.২.২২ -গ)  $ S  = (B ∪ C)^c  &times; A $   হলে, ডোম  S  নির্ণয় কর।   <BR>
+</span>
+
+<span class ="solveColor">সমাধান:</span><BR>
+ <span class ="reason_color">
+  B∪C  -  এর অৰ্থ হল, B  সেট এবং C সেটের সমস্ত উপাদান নিয়ে গঠিত সেট। <BR>
+   এখানে লক্ষ্য রাখতে হবে কোন উপাদান যেন পুনরাবৃত্তি না হয়।<BR>
+অর্থাৎ  B∪C  = B + C <BR>
+ 
+লক্ষ্য করলে দেখা যায় যে   B  সেট এবং  C সেটের  সম্মিলিত উপাদান সমূহ হল:
+$\{2,3,4,5,6,7\}$<BR>
+</span>
+<BR>
+
+অতএব,<span class ="decision_result_color">  $ B∪C = \{2,3,4,5,6,7\}$</span>    [ <span class ="reason_color">  উভয়  সেটের  সম্মিলিত উপাদান সমূহ   </span>]<BR>
+
+<BR>
+এখানে,<BR>
+ <span class ="reason_color"> সার্বিক সেট  $  U = \{1,2,3,4,5,6,7,8\}$ </span><BR><BR>
+ এখন,<BR>
+ $(B ∪ C)^c =  U- (B ∪ C) $<BR>
+ = $ \{1,2,3,4,5,6,7,8\}- \{2,3,4,5,6,7\}$<BR>
+ =<span class ="decision_result_color">  $ \{1,8\}$</span><BR>
+ 
+  এখন,<BR>
+ $ S  = (B ∪ C)^c  &times; A $ <BR>
+ =  $ \{1,8\} &times; \{1,2,3,4\} $  <span class = "reason_color"> কার্তেসীয় গুনজ সেট</span><BR>
+= <span class ="decision_result_color"> $ \{(1,1),(1,2),(1,3),(1,4), (8,1),(8,2),(8,3),(8,4) \} $</span><BR><BR>
+
+ <span class ="reason_color"> আমরা জানি, ক্রোমজোড়ের  প্রথম উপাদান সমূহের সেটকে ডোমেন বা ডোম বলে। </span><BR><BR>
+এখন, ক্রোমজোড়ের  প্রথম উপাদান সমূহ =  1,1,1,1,8,8,8,8 <BR><BR>
+
+অতএব,<BR>
+<span class ="decision_result_color"> ডোম = $ \{1,8 \} $</span><BR><BR>
+
+	
+	
+	
+</span>
+
+<BR><BR>
+<BR><BR>
+
+</body>
+</html>

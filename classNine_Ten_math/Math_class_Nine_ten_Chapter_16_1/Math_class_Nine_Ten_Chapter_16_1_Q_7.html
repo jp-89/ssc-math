@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_16_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 16. Question 1</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+ chapter_16_1_Q_7(context1, 50,130,170,130,50,20,true);
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+১৬.১.৭।  <span class ="question_color"> একটি সমকোণী ত্রিভুজের লম্ব ভূমির ${11}/{12}$  অংশ থেকে 6 সে.মি. কম এবং অতিভুজ ভূমির  ${4}/{3}$  অংশ থেকে 3 সে.মি. কম।
+ভূমির দৈর্ঘ্য  নির্ণয় কর।   </span>
+ <BR>
+ <canvas id="myCanvas1" width="200" height="150">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+	
+
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="given_value_color">
+দেওয়া আছে,<BR>
+ABC সমকোণী ত্রিভুজ<BR>
+ ভূমি = AB <BR>
+  লম্ব AC, ভূমি AB এর   ${11}/{12}$  অংশ থেকে 6 সে.মি. কম।<BR>
+  অতিভুজ  BC, ভূমি AB এর  ${4}/{3}$  অংশ থেকে 3 সে.মি. কম।<BR>
+ 
+</span>
+<span class ="topic_explanation_color">
+ধরি,
+ ভূমি AB =  x <BR>
+ অতএব, লম্ব AC =    ${11x}/{12} -6$ <BR>
+   অতিভুজ  BC =    ${4x}/{3}- 3$ <BR>
+ 
+</span>
+ <span class ="reason_color">পীথাগোরাসের সূত্র অনুযায়ী,</span><BR>
+<span class ="step_result_color">$ BC^2 = AC^2 + AB^2 $ </span><BR><BR>
+<span class ="value_setting_text_color">মান বসিয়ে পাই,</span><BR>
+<span class ="topic_explanation_color">
+$ {({4x}/{3}- 3)}^2 = {({11x}/{12} -6)}^2 + x^2 $ <BR><BR>
+
+বা, $ {(4x-9)^2}/{9} = {(11x-72)^2}/{144} + x^2 $ <BR><BR>
+
+বা, $ {16x^2-72x+81}/{9} = {121x^2-1584x + 5184}/{144} + x^2 $ <BR><BR>
+
+বা, $ 256x^2-1152x+1296 = 121x^2-1584x + 5184 + 144x^2 $ <BR><BR>
+বা, $ 256x^2-121x^2 - 144x^2 -1152x +1584x + 1296-5184 =   $ <BR><BR>
+বা, $ -9x^2+432x-3888 =0 $ <BR>
+বা, $ 9x^2-432x +3888 =0 $ <BR>
+বা, $ x^2-48x +432 =0 $ <BR>
+বা, $ x^2-36x-12x +432 =0 $ <BR>
+বা, $ x(x-36)-12(x -36) =0 $ <BR>
+বা, $ (x-12)(x-36) =0 $ <BR>
+বা, $ x-12 =0 $ <BR>
+বা,<span class ="decision_result_color"> $ x = 12 $ </span><BR>
+
+অথবা <BR>
+x-36 = 0 <BR>
+বা,<span class ="decision_result_color"> $ x = 36 $ </span><BR>
+
+</span>
+ <BR>
+	
+	<span class ="reason_color">নির্ণেয়:</span><BR>
+
+<span class ="decision_result_color">
+ ত্রিভুজের ভূমির দৈর্ঘ্য  = 12  সে.মি অথবা 36 সে.মি। <BR>
+</span>
+<BR><BR>
+
+<BR><BR>
+<BR><BR>
+
+<BR><BR>
+<BR><BR>
+</body>
+</html>

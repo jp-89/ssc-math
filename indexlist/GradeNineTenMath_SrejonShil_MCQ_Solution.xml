@@ -1,0 +1,27 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Math_class_Nine_ten_SrejonShil_MCQ</name>
+         <namebangla>সৃজনশীল MCQ- অনু:১</namebangla>
+         <nameenglish>Math_class_Nine_ten_SrejonShil_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Srejonshil_Math__MCQ_Ch_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_SrejonShil_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+ </ItemIndexlist>

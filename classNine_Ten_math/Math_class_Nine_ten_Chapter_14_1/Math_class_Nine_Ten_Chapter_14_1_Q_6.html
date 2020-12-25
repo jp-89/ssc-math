@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_14_1.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 14.1. Question 5</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas2 = document.getElementById('myCanvas2'); // canvas with id="myCanvas"
+ var context2 = canvas2.getContext('2d');
+ 
+  var canvas3 = document.getElementById('myCanvas3'); // canvas with id="myCanvas"
+ var context3 = canvas3.getContext('2d');
+ chapter_14_1_Q_6_pic1(context2, 60,30,30,130,170,130,true,100);
+  //chapter_6_3_Q_5_pic2(context3, 100,30,30,130,170,130,true,100);
+  
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+১৪.১.৬।  <span class ="question_color">∆ABC এর BC  বাহুস্থ যেকোনো বিন্দু  X  এবং AX  রেখাস্থ  O  একটি  বিন্দু।  প্রমান কর যে, ∆AOB:∆AOC  = BX:XC </span>
+<BR>
+ <table border="0" cellpadding="0" cellspacing="0">
+<tr><td>
+<canvas id="myCanvas2" width="200" height="170">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+
+</td>
+<td>
+<canvas id="myCanvas3" width="200" height="170">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<span class ="topic_explanation_color">
+<span class ="decision_result_color">সমাধান:</span><BR>
+
+<span class ="solveColor">ব্যাখ্যা:</span><BR>
+<ul class="liststyle">
+<li> ABC একটি ত্রিভুজ। 
+<li> BC  বাহুস্থ যেকোনো বিন্দু  X (চিত্রঃ ১) <BR>
+ <li>AX  রেখাস্থ  O  একটি  বিন্দু।<BR>
+
+ <li> অর্থাৎ  প্রমান করতে হবে যে,<BR><span class ="decision_result_color"> ∆AOB:∆AOC  = BX:XC </span>
+</ul>
+<BR>
+
+<span class ="decision_result_color">অঙ্কন:</span><BR>
+A  বিন্দু থেকে BC  এর উপর AP লম্ব অঙ্কন করি। <BR>
+O   বিন্দু থেকে BC  এর উপর  OQ  লম্ব অঙ্কন করি। <BR>
+O,B এবং O,C  যোগ করি। <BR><BR>
+
+
+<span class ="decision_result_color">প্রমান:</span><BR>
+<span class ="reason_color">
+∆ABX ও ∆ACX এর উচ্চতা AP
+</span>
+<BR>
+অতএব,<BR>
+∆ABX এর ক্ষেত্রফল  $ 1/2 &times;BX&times;AP $<BR>
+∆ACX এর ক্ষেত্রফল  $ 1/2 &times;CX&times;AP $<BR>
+<BR>
+
+<span class ="reason_color">
+∆OBX ও ∆OCX এর উচ্চতা OQ
+</span>
+<BR>
+অতএব,<BR>
+∆OBX এর ক্ষেত্রফল  $ 1/2 &times;BX&times;OQ $<BR>
+∆OCX এর ক্ষেত্রফল  $ 1/2 &times;CX&times;OQ $<BR>
+<BR>
+
+<span class ="reason_color">
+∆AOB = ∆ABX - ∆OBX</span>
+<BR>
+= $ 1/2 &times;BX&times;AP -  1/2 &times;BX&times;OQ $<BR><BR>
+= $ 1/2 &times;BX(AP - OQ ) $<BR><BR>
+
+<span class ="reason_color">
+∆AOC = ∆ACX - ∆OCX</span>
+<BR>
+= $ 1/2 &times;XC&times;AP -  1/2 &times;XC&times;OQ $<BR><BR>
+= $ 1/2 &times;XC(AP - OQ ) $<BR><BR>
+
+<span class ="decision_result_color">
+অতএব, $ {∆AOB}/{∆AOC} =  { 1/2 &times;BX(AP - OQ )}/{1/2 &times;XC(AP - OQ )} $
+</span><BR>
+
+ $ {∆AOB}/{∆AOC} =  {BX}/{XC} $<BR>
+
+
+</span>
+<BR><BR><BR><BR>
+</body>
+</html>

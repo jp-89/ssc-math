@@ -1,0 +1,142 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Communication</name>
+         <namebangla>সাজেশন দিন ও  মন্তব্য  করুন</namebangla>
+         <nameenglish>Communication </nameenglish>
+         <imagename>img_send_email.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Communication</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>Feedback</displaytype>
+     </item>
+
+    <!--
+         <item>
+               <name>Bkash</name>
+               <namebangla>বিকাশ করুন</namebangla>
+               <nameenglish>Bkash </nameenglish>
+               <imagename>bkash_transparent.png</imagename>
+               <imagepath>images</imagepath>
+               <resourceid></resourceid>
+               <banglafile></banglafile>
+               <englishfile></englishfile>
+               <indexListfile></indexListfile>
+               <folder></folder>
+               <banglaFileFolder>Communication</banglaFileFolder>
+               <classGroup>classNine_Ten_math</classGroup>
+
+               <englishFileFolder></englishFileFolder>
+               <url></url>
+               <actionid></actionid>
+               <display>true</display>
+              <evaluationDisplay>false</evaluationDisplay>
+               <displaytype>doBkash</displaytype>
+          </item>
+        -->
+     <item>
+         <name>OtherApps</name>
+         <namebangla>অন্যান্য অ্যাপ সমূহ</namebangla>
+         <nameenglish>OtherApps </nameenglish>
+         <imagename>playstore_transparent.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Communication</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>OtherAppList</displaytype>
+     </item>
+
+     <item>
+         <name>Communication</name>
+         <namebangla>বন্ধুকে  App Download লিঙ্ক পাঠান</namebangla>
+         <nameenglish>Send Appdownlink Rating</nameenglish>
+         <imagename>img_share_link.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Communication</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>ShareAppdownloadLink</displaytype>
+     </item>
+     <item>
+         <name>Communication</name>
+         <namebangla>সৃজনশীল প্রশ্ন পাঠান </namebangla>
+         <nameenglish>Send Question </nameenglish>
+         <imagename>img_sendquestion_2.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Communication</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>SendQuestion</displaytype>
+     </item>
+
+
+     <item>
+         <name>Communication</name>
+         <namebangla>রেটিং দিন </namebangla>
+         <nameenglish>Give Rating </nameenglish>
+         <imagename>img_rating.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Communication</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>AppRating</displaytype>
+     </item>
+
+
+
+
+
+
+ </ItemIndexlist>

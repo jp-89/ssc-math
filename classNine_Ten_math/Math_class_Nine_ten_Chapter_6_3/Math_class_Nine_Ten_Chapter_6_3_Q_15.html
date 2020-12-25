@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_6_3.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 6. Question 15</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas2 = document.getElementById('myCanvas2'); // canvas with id="myCanvas"
+ var context2 = canvas2.getContext('2d');
+  chapter_6_3_Q_15_pic1(context2, 20,100,120,100,70,20,true,100);
+   
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+৬.৩.১৫। <span class ="question_color">প্রমান কর যে, ত্রিভুজের একটি বাহু বর্ধিত করলে যে বহিঃস্থ কোন উৎপন্ন হয়, তা বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টির সমান।    <span>
+
+
+<canvas id="myCanvas2" width="230" height="120">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+
+<font color = "blue">ব্যাখ্যা:</font><BR>
+<span class ="topic_explanation_color">
+<ul class="liststyle">
+<li> ABC একটি  ত্রিভুজ। 
+<li>  BC বাহুকে D বর্ধিত করা হল।
+<li> ∠ACD বহিঃস্থ কোন উৎপন্ন হয়।
+<li>  প্রমান করতে হবে <span class ="decision_result_color">$ ∠ACD = ∠BAC + ∠ABC $</span><BR>
+
+</ul>
+<BR>
+</span>
+<span class ="decision_result_color">অঙ্কন:</span><BR>
+<span class ="explanation_result_color">
+ BA ‖ CE অংকন করি।<BR>
+ </span>
+
+
+<span class ="decision_result_color">প্রমান:</span><BR>
+<span class ="topic_explanation_color">
+<span class ="reason_color">BA ‖ CE এবং AC ছেদক।</span><BR>
+অতএব,   ∠BAC =  ∠ACE  [একান্তর কোন]<BR><BR>
+
+ <span class ="reason_color">BA ‖ CE এবং BD ছেদক।</span><BR>
+অতএব,   ∠ABC =  ∠ECD  [অনুরূপ]<BR><BR>
+
+সুতরাং, আমরা পাই,<BR>
+$ ∠BAC +∠ABC  =  ∠ACE +∠ECD $<BR>
+বা,$ ∠BAC +∠ABC  =  ∠ACD $<BR>
+বা,$ ∠ACD = ∠BAC +∠ABC   $<BR>
+
+<span class ="decision_result_color"> 
+$ ∠ACD = ∠BAC +∠ABC   $(প্রমাণিত  )
+</span>
+</span>
+<BR><BR><BR><BR>
+</body>
+</html>

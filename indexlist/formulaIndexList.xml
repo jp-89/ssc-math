@@ -1,0 +1,253 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Formula</name>
+         <namebangla>সকল প্রয়োজনীয় সূত্র সমূহ</namebangla>
+         <nameenglish>>All Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>All_formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Algebric_formula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Formula</name>
+         <namebangla>বীজগণিতের সূত্র</namebangla>
+         <nameenglish>>Algebric Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>algebric_Formula_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Algebric_formula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Formula</name>
+         <namebangla>সূচকের সূত্র</namebangla>
+         <nameenglish>>Power Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>algebric_power_Formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Algebric_formula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Formula</name>
+         <namebangla>বাস্তব সমস্যা সমাধানের সূত্র</namebangla>
+         <nameenglish>বাস্তব সমস্যা সমাধানের সূত্র</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>real_problem_slove_solution_formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Real_problem_solve_rule</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Formula</name>
+         <namebangla>সামঞ্জস্যতা ,নির্ভরশীলতা  এবং  সমাধান সংখ্যার সূত্র</namebangla>
+         <nameenglish>Dependency</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>dependency_.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Real_problem_solve_rule</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Formula</name>
+         <namebangla>অনুপাত সমানুপাতের সূত্র সমূহ</namebangla>
+         <nameenglish>Ratio Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>ratio_Formula_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Algebric_formula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Formula</name>
+         <namebangla>ত্রিকোণমিতির কোণের মানসমুহ</namebangla>
+         <nameenglish>Trigonmetry Angle values</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>angle_value_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>TrigonmetryFormula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Formula</name>
+         <namebangla>ত্রিকোণমিতিক অনুপাত ও  সূত্র সমূহ</namebangla>
+         <nameenglish>Trigonmetry angle relation</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>angle_ratio.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>TrigonmetryFormula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Formula</name>
+         <namebangla>সমান্তর ও গুণোত্তর ধারার  সূত্র  সমুহ</namebangla>
+         <nameenglish>Series Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Series_formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Series_formula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Formula</name>
+         <namebangla>ক্ষেত্রফল সূত্রসমূহ</namebangla>
+         <nameenglish>Area Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Area_formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Geometryormula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+     <item>
+         <name>Formula</name>
+         <namebangla>পরিসংখ্যানের সূত্রসমূহ</namebangla>
+         <nameenglish>Statistics Formula</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Statistics_formula.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Statistics</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+
+ </ItemIndexlist>

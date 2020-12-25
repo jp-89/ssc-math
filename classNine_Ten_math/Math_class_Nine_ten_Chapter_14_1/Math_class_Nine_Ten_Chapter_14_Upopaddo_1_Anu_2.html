@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/Uppaddo_1_2.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 13. Question 17</title>
+<script type="application/javascript">
+function drawTriangleOnLoad(){
+
+var canvas2 = document.getElementById('myCanvas2'); // canvas with id="myCanvas"
+ var context2 = canvas2.getContext('2d');
+ drawTriangleForUpopaddo_1Anusidhant2_initial(context2, 80,30,40,130,130,130);
+ 
+ var canvas3 = document.getElementById('myCanvas3'); // canvas with id="myCanvas"
+ var context3 = canvas3.getContext('2d');
+ drawTriangleForUpopaddo_1Anusidhant2_final(context3, 80,30,40,130,130,130,false);
+ 
+}
+
+</script>
+</head>
+<body onload="drawTriangleOnLoad();">
+
+
+অনুসিদ্ধান্ত ২। <font color = "blue"> ত্রিভুজের কোন বাহুর মধ্যবিন্দু  দিয়ে অপর এক বাহুর সমান্তরাল রেখা তৃতীয় বাহুকে সমদ্বিখন্ডিত করে।   </font>
+ <BR><BR>
+
+	
+ <table border="1" cellpadding="0" cellspacing="0">
+<tr><td>
+<canvas id="myCanvas2" width="175" height="200">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+
+</td>
+<td>
+<canvas id="myCanvas3" width="175" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<BR>
+<font color = "green">সমাধান:</font><BR>
+
+<font color = "blue">ব্যাখ্যা:</font><BR>
+<ul class="liststyle">
+<li> ধরি, ABC একটি ত্রিভুজ। 
+<li> DE রেখাটি    ত্রিভুজের  BC বাহুর সমান্তরাল একটি রেখা। <BR>
+ <li>DE রেখাটি    ত্রিভুজের  ভিতরে AB ও   AC বাহুদ্বয়কে  চিত্রের মত (চিত্র :১  ও চিত্রঃ ২)  D ও E   বিন্দুতে ছেদ করে।
+ 
+<li> প্রমান করতে হবে যে , E  বিন্দুটি AC  রেখাকে সমদ্বিখন্ডিত করে।<BR>
+অর্থাৎ  <font color = "blue">AE  = EC </font>
+
+</ul>
+<BR>
+<font color = "blue">অঙ্কন:</font><BR>
+B,E এবং  C,D যোগ করি <BR><BR>
+
+
+<font color = "blue">প্রমান:</font><BR>
+<ul class="liststyle">
+<li> ∆ADE এবং ∆BDE একই উচ্চতা বিশিষ্ট এবং তাদের  ভূমি যথাক্রমে AD ও DB<BR>
+আমরা জানি , একই  উচ্চতা বিশিষ্ট  ত্রিভুজ সমূহের ক্ষেত্রফল  তাদের ভূমি সমূহের সমানুপাতিক।<BR>
+ <font color = "blue">$ ∴ {∆ADE }/ { ∆BDE } = {AD}/ {DB} $</font> .......(1) <BR><BR>
+
+<li> আবার , ∆ADE এবং ∆DEC একই উচ্চতা বিশিষ্ট এবং তাদের  ভূমি যথাক্রমে AE ও EC<BR>
+
+ <font color = "blue">$ ∴ {∆ADE }/ { ∆DEC } = {AE}/ {EC} $</font> .......(2) <BR><BR>
+
+<li>∆BDE  ∆DEC  একই ভূমি  BC  এবং   BC ও  DE সমান্তরাল রেখা যুগলের মধ্যে অবস্থিত।<BR>
+আমরা জানি, একই ভূমি  ও  একই সমান্তরাল রেখা যুগলের মধ্যে অবস্থিত ত্রিভুজসমূহের  ক্ষেত্রফল সমান।  <BR>
+ <font color = "blue">∴  ∆BDE = ∆DEC</font><BR>
+<BR>
+<li> (2) সমীকরণ থেকে পাই ,<BR>
+   ${∆ADE }/ { ∆DEC } = {AE}/ {EC} $<BR> 
+   ∆BDE = ∆DEC মান বসিয়ে পাই ,<BR><BR>
+   ${∆ADE }/ { ∆BDE } = {AE}/ {EC} $<BR> <BR>
+    (1) সমীকরণ থেকে মান বসিয়ে পাই ,<BR>
+	<font color = "blue">${AD} / {DB}   = {AE} / {EC} $</font> ......(3) <BR><BR>
+<li>আমরা  জানি , D, AB বাহুর মধ্যবিন্দু। অর্থাৎ AD  = DB <BR>
+অতএব,, আমরা পাই ,<BR>
+${AD} / {DB}   = {AE} / {EC} $<BR>
+বা,${AD} / {AD}   = {AE} / {EC} $<BR>
+বা,$1  = {AE} / {EC} $<BR>
+বা, <font color = "blue">$ AE =  EC $</font><BR>
+(প্রমাণিত )
+
+ </ul>
+<BR><BR>
+</body>
+</html>

@@ -1,0 +1,760 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_1_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+     <name>Math_class_Nine_ten_MCQ</name>
+     <namebangla>MCQ- অনু:২.১</namebangla>
+     <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+     <imagename>img_triangle.png</imagename>
+     <imagepath>images</imagepath>
+     <resourceid></resourceid>
+     <banglafile>Math_class_Nine_Ten_Chapter_2_1_MCQ.html</banglafile>
+     <englishfile></englishfile>
+     <indexListfile></indexListfile>
+     <folder></folder>
+     <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+     <classGroup>classNine_Ten_math</classGroup>
+
+     <englishFileFolder></englishFileFolder>
+     <url></url>
+     <actionid></actionid>
+     <display>true</display>
+     <evaluationDisplay>true</evaluationDisplay>
+     <displaytype>document</displaytype>
+ </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:২.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_2_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৩.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_3_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৩.২ -১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_3_2_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৩.২- ২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_3_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৩.৩</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_3_3_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৩.৪</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_3_4_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৪.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৪.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৪.৩</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_3_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৫.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_5_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৫.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_5_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৬.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_6_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৭.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_7_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৭.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_7_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৮.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৮.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৮.৩</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_3_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৮.৪</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_4_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৮.৫</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_5_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৯.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:৯.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১০.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_10_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৪.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_14_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৪.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_14_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৪.৩</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_14_3_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ-অনু:১৪.৪</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_14_4_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৫</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_15_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৬.১</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_16_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৬.২</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_16_2_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৬.৩</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_16_3_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ- অনু:১৬.৪</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_16_4_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Math_class_Nine_ten_MCQ</name>
+         <namebangla>MCQ-অনু:১৭</namebangla>
+         <nameenglish>Math_class_Nine_ten_MCQ</nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_17_1_MCQ.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_MCQ</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+ </ItemIndexlist>

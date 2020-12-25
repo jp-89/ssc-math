@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_16_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 16. Question 2</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+ chapter_16_1_Q_2(context1, 50,130,170,130,50,20,true);
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+১৬.১.২।  <span class ="question_color">20 মিটার লম্বা একটি মই দেওয়ালের সাথে খাড়াভাবে আছে।  মইটির  গোড়া দেওয়াল থেকে কত দূরে সরালে ওপরের প্রান্ত 4 মিটার নিচে নামবে।   </span>
+ <BR><BR>
+ <canvas id="myCanvas1" width="305" height="170">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+	
+
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="given_value_color">
+ মইটি খাড়া দেওয়াল  বরাবর ছিল। <BR>
+ মনে করি,, মই এর এক প্রান্ত ছিল  C বিন্দুতে ও অপর প্রান্ত ছিল ভূমিুতে  A বিন্দুতে।<BR> 
+সুতরাং  <font color = "blue">AC  = 20 মিটার। </font><BR>
+মইটি দেওয়াল থেকে সরানোর পর এক প্রান্ত C বিন্দু থেকে D বিন্দুতে নেমে আসে ও ভূমিতে থাকা প্রান্ত  Aথেকে B বিন্দুতে সরে যায়।<BR>
+<font color = "blue">সুতরাং, CD  = 4  মিটার <BR>
+বের করতে হবে  AB = ? </font><BR>
+
+
+আবার ,যেহেতু, মইটি   20 মিটার লম্বা  সুতরাং BD = 20 মিটার।<BR>
+এখানে স্পষ্টত ,ABD একটি  সমকোণী ত্রিভুজ এবং BD অতিভুজ। <BR>
+AD = AC - CD = 20 -4 = 16  মিটার।<BR>
+</span>
+ <span class ="reason_color">পীথাগোরাসের সূত্র অনুযায়ী ,</span><BR>
+<span class ="step_result_color">$ BD^2 = AD^2 + AB^2 $ </span><BR><BR>
+<span class ="value_setting_text_color">মান বসিয়ে পাই,</span><BR>
+<span class ="topic_explanation_color">
+$ 20^2 = 16^2 + AB^2 $ <BR>
+বা, $ AB^2 = 20^2 - 16^2 $ <BR>
+বা, $ AB^2 = 400 - 256 $ <BR>
+বা, $ AB^2 = 144 $ <BR>
+বা, $ AB = √{144} $ <BR>
+বা, $ AB = 12$ <BR>
+</span>
+<span class ="decision_result_color">
+ মইটির  গোড়া দেওয়াল থেকে  12 মিটার দূরে  সরাতে হবে। 
+</span>
+
+<BR><BR>
+<BR><BR>
+</body>
+</html>

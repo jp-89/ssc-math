@@ -1,0 +1,29 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>TrigonmetryFormula</name>
+         <namebangla>Reciprocal identities</namebangla>
+         <nameenglish>Reciprocal identities</nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Reciprocal_identities.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>TrigonmetryFormula</banglaFileFolder>
+         <classGroup>Formula</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+
+ </ItemIndexlist>

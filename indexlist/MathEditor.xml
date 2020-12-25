@@ -1,0 +1,42 @@
+﻿
+ <ItemIndexlist>
+ 
+     <item>
+           <name>MathEditor</name>
+           <namebangla>ম্যাথ এডিটর </namebangla>
+           <nameenglish>What is Ramadan </nameenglish>
+           <imagename>formula.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile></banglafile>
+           <englishfile></englishfile>
+           <indexListfile>indexlist/MathGradeNineTen/MathGradeNineTenChapter_1.xml</indexListfile>
+           <folder></folder>
+           <banglaFileFolder></banglaFileFolder>
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+           <displaytype>mathEditor</displaytype>
+      </item>
+
+     <item>
+         <name>Ramadan Amal</name>
+         <namebangla> অনুশীলনী ২.১ </namebangla>
+         <nameenglish>What is Ramadan </nameenglish>
+         <imagename>formula.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile>indexlist/MathGradeNineTen/MathGradeNineTenChapter_1.xml</indexListfile>
+         <folder></folder>
+         <banglaFileFolder></banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+ </ItemIndexlist>

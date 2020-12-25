@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+<title>Chapter 4 Question 2</title>
+</head>
+<body>
+
+<span class ="topic_explanation_color">
+২। <span class ="question_color"> 
+ L , M , N  তিনটি বীজগাণিতিক রাশি যেখানে,<BR>
+$ L  = {x^a}/{x^b}, M  = {x^b}/{x^c}, N  = {x^c}/{x^a} $<BR>
+ক. L  =  1 হলে দেখাও যে, a  = b <BR>
+খ. প্রমান কর যে, $  √^{ab}{L} &times; √^{bc} { M}   &times; √^{ca} { N} =1 $<BR>
+গ. উদ্দীপকের আলোকে দেখাও যে, 
+    $ log_k L ^{a +b } +   log_k M  ^{b +c  } +  log_k N  ^{c +a  } = 0 $
+ </span><BR><BR>
+ 
+ <BR>
+
+<span class ="question_color">
+ক. L  =  1 হলে দেখাও যে, a  = b <BR>
+</span><BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="reason_color">দেওয়া আছে,</span><BR>
+$ L  = {x^a}/{x^b} $ <BR><BR>
+বা, ${x^a}/{x^b}= L$ <BR><BR>
+বা, $x^{a-b}= 1 $ <BR><BR>
+বা, $x^{a-b}= x^0 $ <BR><BR>
+অতএব,<BR>
+$a-b =1 $ <BR><BR>
+
+
+
+বা, <span class ="decision_result_color">  $a=b $ </span>  (প্রমাণিত)<BR> 
+<BR>
+
+<span class ="question_color">
+খ. প্রমান কর যে, $  √^{ab}{L} &times; √^{bc} { M}   &times; √^{ca} { N} =1 $<BR>
+</span><BR>
+
+<span class ="solveColor">সমাধান:</span><BR>
+
+<span class ="reason_color">দেওয়া আছে বামপক্ষ=</span><BR>
+$  √^{ab}{L} &times; √^{bc} { M}   &times; √^{ca} { L}$<BR><BR>
+=$  √^{ab}{ {x^a}/{x^b}} &times; √^{bc} { {x^b}/{x^c}}   &times; √^{ca} { {x^c}/{x^a}}$<BR><BR>
+=$  √^{ab}{ x^{a-b}} &times; √^{bc} { x^{b-c}}   &times; √^{ca} { x^{c-a}}$<BR><BR>
+
+=$   x^{{a-b}/{ab}} &times;  x^{{b-c}/{bc}}   &times;  x^{{c-a}/{ca}}$<BR><BR>
+
+=$  x^{{ca-bc+ab-ca+bc-ab}/{abc}} $<BR><BR>
+=$   x^{{0}/{abc}} $<BR><BR>
+=$   x^0 $<BR><BR>
+
+= <span class ="decision_result_color">$1 $ </span> (প্রমাণিত)
+<BR><BR>
+
+<span class ="question_color">
+গ. উদ্দীপকের আলোকে দেখাও যে, 
+    $ log_k L ^{a +b } +   log_k M  ^{b +c  } +  log_k N  ^{c +a  } = 0 $
+</span><BR>
+
+<span class ="solveColor">সমাধান:</span><BR>
+$ L  = {x^a}/{x^b} $ <BR><BR>
+বা, $ L  = x^{a-b} $ <BR><BR>
+বা, $ L^{a +b }  = (x^{a-b})^{a +b } $ <BR><BR>
+= $x^{a^2-b^2}$<BR><BR>
+<span class ="reason_color">অনুরূপভাবে,</span><BR>
+$ M^{b +c  }   = x^{b^2-c^2} $ <BR><BR>
+$ N ^{c +a  }  = x^{c^2-a^2} $ <BR><BR>
+
+<span class ="reason_color">মান বসিয়ে পাই,</span><BR>
+ $ log_k L ^{a +b } +   log_k M  ^{b +c  } +  log_k N  ^{c +a  } $<BR><BR>
+ = $ log_k x^{a^2-b^2} +   log_k x^{b^2-c^2} +  log_k x^{c^2-a^2} $ <BR><BR>
+ = $ (a^2-b^2)log_k x +   (b^2-c^2)log_k x +  (c^2-a^2)log_k  $ <BR><BR>
+ = $ (a^2-b^2 + b^2-c^2 +  c^2-a^2)log_k x   $ <BR><BR>
+  $ 0 &times;log_k x   $ <BR><BR>
+= <span class ="decision_result_color">$0$  </span><BR>
+
+<BR>
+ <BR><BR>
+ </span>
+  <BR><BR> <BR><BR>
+
+</body>
+</html>

@@ -1,0 +1,518 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.৩-৪</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_3_4.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+           <name>Chapter_9_2_solution</name>
+           <namebangla>প্রশ্ন ৯.২.৫</namebangla>
+           <nameenglish>Chapter 9.2 </nameenglish>
+           <imagename>trigonmentry.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_5.html</banglafile>
+           <englishfile></englishfile>
+           <indexListfile></indexListfile>
+           <folder></folder>
+           <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+           <classGroup>classNine_Ten_math</classGroup>
+
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+          <evaluationDisplay>false</evaluationDisplay>
+           <displaytype>document</displaytype>
+      </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.৬</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_6.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.৭</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_7.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.৮</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_8.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.৯</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_9.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১০</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_10.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১১</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_11.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১২</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_12.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১৩</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_13.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১৪</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_14.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১৫</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_15.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১৬</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_16.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.১৭</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_17.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২১</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_21.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২২</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_22.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২৩</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_23.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২৪</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_24.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২৫</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_25.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২৬</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_26.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_9_2_solution</name>
+         <namebangla>প্রশ্ন ৯.২.২৭</namebangla>
+         <nameenglish>Chapter 9.2 </nameenglish>
+         <imagename>trigonmentry.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_9_2_Q_২৭.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_9_2</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+ </ItemIndexlist>

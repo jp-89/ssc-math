@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Rectangle.js"></script>
+    <script src="../../js/Triangle.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_15_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 15. Question 9</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+  chapter_15_1_Q_10(context1, 50,20,20,100,130,100,100,20);
+
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+
+
+১৫.১০। <span class ="question_color">
+ চিত্রে,ABCD একটি ট্রাপিজিয়াম।  এর AB ও CD  বাহুদ্বয় সমান্তরাল।  
+ট্রাপিজিয়ামক্ষেত্র ABCD এর ক্ষেত্রফল নির্ণয় কর। 
+</span>
+ <BR>
+ 
+
+ <canvas id="myCanvas1" width="180" height="140">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="topic_explanation_color"> 
+ABCD একটি ট্রাপিজিয়াম।<BR>
+এর AB ও CD  বাহুদ্বয় সমান্তরাল।  <BR>
+অর্থাৎ, AB ∥ CD<BR>
+ABCD ট্রাপিজিয়ামের  ক্ষেত্রফল নির্ণয়  করতে হবে।<BR><BR>
+<span class ="proof_color"> অঙ্কন:</span><BR>
+A বিন্দু থেকে CD এর  AL লম্ব অঙ্কন করি এবং <BR>
+C  বিন্দু থেকে AB  এর  CM  লম্ব অঙ্কন করি।<BR>
+
+অতএব, <span class ="decision_result_color">AL ⊥CD এবং CM ⊥ AB </span><BR>
+A,C যোগ করি।
+ <BR><BR>
+<span class ="proof_color"> প্রমান: </span><BR>
+
+ABCD ট্রাপিজিয়ামের  ক্ষেত্রফল = 
+∆ABC এর   ক্ষেত্রফল <BR>
++ ∆ADC এর   ক্ষেত্রফল <BR>
+
+এখন,<BR>
+<span class ="decision_result_color">∆ABC এর   ক্ষেত্রফল  = $1/2&times;AB&times;CM $</span><BR>
+<span class ="decision_result_color">∆ADC এর   ক্ষেত্রফল  = $1/2&times;CD&times;AL $</span><BR>
+
+অতএব,<BR>
+<span class ="reason_color">ABCD ট্রাপিজিয়ামের  ক্ষেত্রফল = 
+
+ $ 1/2&times;AB&times;CM  + 1/2&times;CD&times;AL $<BR></span>
+ 
+ =$ 1/2&times;AB&times;AL  + 1/2&times;CD&times;AL $<BR>
+ =$ 1/2&times;(AB+CD)&times;AL $<BR>
+ =<span class ="decision_result_color"> $ 1/2&times;\text"সমান্তরাল বাহুদ্বয়ের যোগফল"&times;\text"উচ্চতা " $</span><BR>
+
+</span>
+<BR><BR>
+
+<BR><BR><BR><BR>
+</body>
+</html>

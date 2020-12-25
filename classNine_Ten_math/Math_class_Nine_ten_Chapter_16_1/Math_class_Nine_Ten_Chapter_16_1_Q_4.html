@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_16_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 16. Question 1</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+ chapter_16_1_Q_4(context1, 20,90,150,90,70,30,true);
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+১৬.১.৪।  <span class ="question_color">   একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য  25 সে.মি.,27 সে.মি এবং পরিসীমা 84 সে.মি ।  ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর। 
+</span>
+ <BR>
+ <canvas id="myCanvas1" width="200" height="120">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+	
+
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="given_value_color">
+ABC একটি  ত্রিভুজ।<BR>
+ দুইটি বাহুর দৈর্ঘ্য  25 সে.মি.,27 সে.মি<BR>
+পরিসীমা  2s = AB +AC +BC = 84 সে.মি।
+</span>
+<BR>
+
+<span class ="topic_explanation_color">
+
+মনে করি,<BR>
+ AB = c =  25 সে.মি <BR>
+ AC = b = 27 সে.মি<BR>
+ <span class ="ateb_color">অতএব,<BR>
+ BC = a= 84-25-27 = 32 সে.মি <BR>
+
+আমরা জানি,<BR>
+<span class ="formula_color_2">
+ ত্রিভুজের  পরিসীমা  2s = a+b+c <BR>
+</span>
+বা,  2s = 32+27+25 <BR>
+বা,  s = $ {84}/2$ <BR>
+বা,  s = $ {42}$ <BR>
+</span>
+<BR>
+আমরা জানি,<BR>
+ <span class ="formula_color_2">ত্রিভুজের ক্ষেত্রফল = $√{s(s-a)(s-b)(s-c)}$</span><BR>
+ <span class ="topic_step_color">
+ =  $√{42(42-32)(42-27)(42-25)}$<BR>
+ =  $√{42&times;10&times;15&times;17}$<BR>
+ =  $√{107100}$<BR>
+ = 327.26 বর্গ  সে.মি  (প্রায়)<BR>
+ </span>
+
+
+ <span class ="reason_color">নির্ণেয়:</span><BR>
+
+<span class ="decision_result_color">
+ ত্রিভুজের ক্ষেত্রফল =327.26 বর্গ  সে.মি (প্রায়)। <BR>
+</span>
+
+<BR><BR>
+<BR><BR>
+</body>
+</html>

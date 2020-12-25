@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	<link rel="stylesheet" type="text/css" href="../css/jqmath-0.4.3.css">
+	
+	<script src="../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+<title>JqMath Test</title>
+</head>
+<body>
+
+<p>Copy this file, and replace this sample HTML with your own web page.  See the
+<a href="http://mathscribe.com/author/jqmath.html">jqMath documentation</a> for help.</p>
+
+<p>If $ax^2+bx+c=0$ with $a≠0$, then:</p>
+$$x={-b±√{b^2-4ac}}/{2a}$$
+
+<p>If you use other software that generates MathML, you can include that here also:</p>
+<math display="block">
+  <mrow>
+    <mi mathvariant="normal">&pi;</mi>
+    <mo>≈</mo>
+    <mfrac>
+      <mn>355</mn>
+      <mn>113</mn>
+    </mfrac>
+  </mrow>
+</math>
+
+$$y-y_0=m(x-x_0)$$
+<br>
+$$\cos^2θ+\sin^2θ=1$$
+<BR>
+$$∑↙{i=0}↖n i={n(n+1)}/2$$
+<br>
+$${1+√5}/2=1+1/{1+1/{1+⋯}}$$
+
+<br>
+$$f'(x)=\lim↙{h→0}{f(x+h)-f(x)}/h$$
+
+<br>
+<table class="center ruled"><thead><tr><th>HTML Source<th>Result<tbody>
+<tr><td>\$\$y-y_0=m(x-x_0)\$\$  </td><td>$$y-y_0=m(x-x_0)$$</td></tr>
+<tr><td>\$\$\cos^2θ+\sin^2θ=1\$\$<td>$$\cos^2θ+\sin^2θ=1$$
+<tr><td>\$\$∑↙{i=0}↖n i={n(n+1)}/2\$\$<td>$$∑↙{i=0}↖n i={n(n+1)}/2$$
+<tr><td>\$\${1+√5}/2=1+1/{1+1/{1+⋯}}\$\$<td>$${1+√5}/2=1+1/{1+1/{1+⋯}}$$
+<tr><td>\$\$f'(x)=\lim↙{h→0}{f(x+h)-f(x)}/h\$\$<td>$$f'(x)=\lim↙{h→0}{f(x+h)-f(x)}/h$$
+<tr><td>\\[∀x_0∀ε>0∃δ>0∋{|x-x_0|}&amp;lt;δ⇒{|f(x)-f(x_0)|}&amp;lt;ε\\]
+	<td>\[∀x_0∀ε>0∃δ>0∋{|x-x_0|}&lt;δ⇒{|f(x)-f(x_0)|}&lt;ε\]
+<tr><td>\\[∫_\Δd\bo ω=∫_{∂\Δ}\bo ω\\]<td>\[∫_\Δd\bo ω=∫_{∂\Δ}\bo ω\]
+<tr><td>\$(\table \cos θ, - \sin θ; \sin θ, \cos θ)\$ gives a rotation by \$θ\$.
+	<td>$(\table \cos θ, - \sin θ; \sin θ, \cos θ)$ gives a rotation by $θ$.
+<tr><td>\$v↖{→}⋅w↖{→} = vw\cos θ\$<td>$v↖{→}⋅w↖{→} = vw\cos θ$
+<tr><td>\$\{x:x^2∈\ℚ\}\$ has measure 0 in \$\ℝ\$.<td>$\{x:x^2∈\ℚ\}$ has measure 0 in $\ℝ$.
+<tr><td>\\(U=⋃↙αU_α⇒0→\fr F(U)→∏↙α\fr F(U_α)→↖{-}∏↙{α,β}\fr F(U_α∩U_β)\\) is exact.
+	<td>\(U=⋃↙αU_α⇒0→\fr F(U)→∏↙α\fr F(U_α)→↖{-}∏↙{α,β}\fr F(U_α∩U_β)\) is exact.
+<tr><td>\\[1/7 = 0.\ov 142857\\]<td>\[1/7 = 0.\ov 142857\]
+<tr><td>\\[√^n{a}√^n{b} = √^n{ab}\\]<td>\[√^n{a}√^n{b} = √^n{ab}\]
+<tr><td>\\[\table a, =, b+c; , =, d\\]<td>\[\table a, =, b+c; , =, d\]
+<tr><td>\\[\text"average speed" = \text"distance traveled" / \text"elapsed time"\\]
+	<td>\[\text"average speed" = \text"distance traveled" / \text"elapsed time"\]
+<tr><td>\\[y = ax^\html'&amp;lt;input type="text" size=1>'+bx+c\\] (inside a trusted source)
+	<td>\[y = ax^\html'&lt;input type="text" size=1>'+bx+c\] (inside a trusted source)
+<tr><td>\\[\table x_0^2, {_0F_1(; a; z)}, R_i_^j_k_l\\]
+	<td>\[\table x_0^2, {_0F_1(; a; z)}, R_i_^j_k_l\]
+<tr><td>\$\$[\O\H^{-}]=K_\W/[\H^{+}]\$\$<td>$$[\O\H^{-}]=K_\W/[\H^{+}]$$
+<tr><td>\$\$<textarea id="mathSrc1" rows=2 cols=30></textarea>\$\$<td id="mathTgt1">
+</table>
+<p>If you use other software that generates MathML, you can include that here also:</p>
+<math display="block">
+  <mrow>
+    <mi mathvariant="normal">&pi;</mi>
+    <mo>≈</mo>
+    <mfrac>
+      <mn>355</mn>
+      <mn>113</mn>
+    </mfrac>
+  </mrow>
+</math>
+
+<br>
+<math display="block">
+  <msup>
+    <mi>e</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi>x</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+
+<br>
+<math display="block">
+  <msup>
+    <mrow>
+      <mo>(</mo>
+        <mrow>
+          <mrow><mn>3</mn><mi>x</mi></mrow>
+          <mo>-</mo>
+          <mrow><mn>2</mn><mi>y</mi></mrow>
+        </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+</math>
+</math>
+<br>
+$ax^2+bx+c=0$ with $a≠0$, then: $$x={-b±√{b^2-4ac}}/{2a}$$
+<br>
+$$∑↙{i=0}↖n i={n(n+1)}/2$$
+<br>
+$${1+√5}/2=1+1/{1+1/{1+⋯}}$$
+<br>
+$$\cl"ma-join-align" {\table ∫_a^b f(x) dx,={lim}↙{ε→0}∫_(a+ε)^b f(x)dx ;∫_b^∞ f(x) dx,= {lim}↙{b→∞}∫_a^b f(x)dx$$
+
+<br>
+\[c_n ≝ \{\, \cl"ma-join1-align" { \table A_n / { 2i } e^{ iϕn } = 1/2 (a_n - ib_n), for, n>0; 1/2 a_0, for, n=0; c^{*}_{|n|}, for, n<0}\]
+
+<br>
+$$NaCl_(aq)+AgNO_3_(aq) → NaNO_3_(aq)+AgCl_(s)$$
+
+<br>
+$$[\O\H^{-}]=K_\W/[\H^{+}]$$
+
+<br>
+$$N_(t)=N_o(1/2)^{t/t_{1/2}}$$
+<br>
+$$∑↙{i=0}↖n i={n(n+1)}/2$$
+
+$$(a+b)^3=a^3+3a^2b+3ab^2+b^3$$
+\\[√^n{ab}\\] = \[√^n{ab}\]
+<table border = "1.0" style="border-collapse: collapse;">
+<tr><td>SL</td><td>Expression</td><td>result</td></tr>
+<tr><td></td><td>\\[{a}/b\\]</td><td>\[{a}/b\]</td></tr>
+<tr><td></td><td>\$\${a}/b\$\$</td><td>$${a}/b$$</td></tr>
+
+
+<tr><td></td><td>\\[{a+b+c}/{w+x+z}\\]</td><td>\[{a+b+c}/{w+x+z}\]</td></tr>
+<tr><td></td><td>\$\${a+b+c}/{w+x+z}\$\$</td><td>$${a+b+c}/{w+x+z}$$</td></tr>
+
+
+
+<tr><td></td><td>\\[b^3\\]</td><td>\[b^3\]</td></tr>
+<tr><td></td><td>\$\$b^3\$\$</td><td>$$b^3$$</td></tr>
+
+<tr><td></td><td>\\[√{ab}\\]</td><td>\[√{ab}\]</td></tr>
+<tr><td></td><td>\$\$√{ab}\$\$</td><td>$$√{ab}$$</td></tr>
+
+
+<tr><td></td><td>\\[√^n{ab}\\]</td><td>\[√^n{ab}\]</td></tr>
+<tr><td></td><td>\$\$√^n{ab}\$\$</td><td>$$√^n{ab}$$</td></tr>
+<tr><td></td><td>\\[y_0\\]</td><td>\[y_0\]</td></tr>
+<tr><td></td><td>\$\$y_0\$\$</td><td>$$y_0$$</td></tr>
+
+<tr><td></td><td>\\[∑\\]</td><td>\[∑\]</td></tr>
+<tr><td></td><td>\$\$∑\$\$</td><td>$$∑$$</td></tr>
+
+<tr><td></td><td>\\[∑↙{i=0}↖n\\]</td><td>\[∑↙{i=0}↖n\]</td></tr>
+<tr><td></td><td>\$\$∑↙{i=0}↖n\$\$</td><td>$$∑↙{i=0}↖n$$</td></tr>
+
+
+<tr><td></td><td>\\[∑↙{i=0}↖n i={n(n+1)}/2\\]</td><td>\[∑↙{i=0}↖n i={n(n+1)}/2\]</td></tr>
+<tr><td></td><td>\$\$∑↙{i=0}↖n i={n(n+1)}/2\$\$</td><td>$$∑↙{i=0}↖n i={n(n+1)}/2$$</td></tr>
+
+<tr><td></td><td>\\[∫\\]</td><td>\[∫\]</td></tr>
+<tr><td></td><td>\$\$∫\$\$</td><td>$$∫$$</td></tr>
+
+<tr><td></td><td>\\[∫_a^b\\]</td><td>\[∫_a^b\]</td></tr>
+<tr><td></td><td>\$\$∫_a^b\$\$</td><td>$$∫_a^b$$</td></tr>
+
+<tr><td></td><td>\\[∫_a^bf(x)dx\\]</td><td>\[∫_a^bf(x)dx\]</td></tr>
+<tr><td></td><td>\$\$∫_a^bf(x)dx\$\$</td><td>$$∫_a^bf(x)dx$$</td></tr>
+
+<tr><td></td><td>\\[∫_a^bf(x)d/{dx}\\]</td><td>\[∫_a^bf(x)d/{dx}\]</td></tr>
+<tr><td></td><td>\$\$∫_a^bf(x)d/{dx}\$\$</td><td>$$∫_a^bf(x)d/{dx}$$</td></tr>
+
+<tr><td></td><td>\\[{lim}↙{a→0}\\]</td><td>\[{lim}↙{a→0}\]</td></tr>
+<tr><td></td><td>\$\${lim}↙{a→0}\$\$</td><td>$${lim}↙{a→0}$$</td></tr>
+
+
+<tr><td></td><td>\\[{lim}↙{α→0}∫_{a+α}^bf(x)d/{dx}\\]</td><td>\[{lim}↙{α→0}∫_{a+α}^bf(x)d/{dx}\]</td></tr>
+<tr><td></td><td>\$\${lim}↙{α→0}∫_{a+α}^bf(x)d/{dx}\$\$</td><td>$${lim}↙{α→0}∫_{a+α}^bf(x)d/{dx}$$</td></tr>
+
+
+
+
+</table>
+
+</body>
+</html>

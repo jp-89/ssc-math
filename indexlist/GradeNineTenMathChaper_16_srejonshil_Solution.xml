@@ -1,0 +1,51 @@
+﻿
+ <ItemIndexlist>
+ 
+     <item>
+           <name>Chapter_16_solution_srejonshil</name>
+           <namebangla>প্রশ্ন সৃজনশীল ১৬.১</namebangla>
+           <nameenglish>Chapter_16_solution_srejonshil </nameenglish>
+           <imagename>img_arithmatic.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile>Math_Nine_ten_Ch_16_srejonshil_Q_1.html</banglafile>
+           <englishfile></englishfile>
+           <indexListfile></indexListfile>
+           <folder></folder>
+           <banglaFileFolder>Math_class_Nine_ten_Chapter_16_srejonshil</banglaFileFolder>
+           <classGroup>classNine_Ten_math_sresonshil</classGroup>
+
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+          <evaluationDisplay>true</evaluationDisplay>
+           <displaytype>document</displaytype>
+      </item>
+
+
+     <item>
+         <name>Chapter_16_solution_srejonshil</name>
+         <namebangla>প্রশ্ন সৃজনশীল ১৬.২</namebangla>
+         <nameenglish>Chapter_16_solution_srejonshil </nameenglish>
+         <imagename>img_arithmatic.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_Nine_ten_Ch_16_srejonshil_Q_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_16_srejonshil</banglaFileFolder>
+         <classGroup>classNine_Ten_math_sresonshil</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+ </ItemIndexlist>

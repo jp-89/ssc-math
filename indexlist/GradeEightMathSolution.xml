@@ -1,0 +1,43 @@
+﻿
+ <ItemIndexlist>
+ 
+     <item>
+           <name>Grade Eight Math Solution</name>
+           <namebangla> অনুশীলনী ১ </namebangla>
+           <nameenglish>What is Ramadan </nameenglish>
+           <imagename>formula.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile></banglafile>
+           <englishfile></englishfile>
+         <indexListfile>indexlist/MathGradeEight/MathGradeEightChapter_1.xml</indexListfile>
+           <folder></folder>
+           <banglaFileFolder></banglaFileFolder>
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+           <displaytype>document</displaytype>
+      </item>
+
+     <item>
+         <name>Grade Eight Math Solution</name>
+         <namebangla> অনুশীলনী ১ </namebangla>
+         <nameenglish>What is Ramadan </nameenglish>
+         <imagename>formula.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile></banglafile>
+         <englishfile></englishfile>
+         <indexListfile>indexlist/MathGradeEight/MathGradeEightChapter_1.xml</indexListfile>
+         <folder></folder>
+         <banglaFileFolder></banglaFileFolder>
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+ </ItemIndexlist>

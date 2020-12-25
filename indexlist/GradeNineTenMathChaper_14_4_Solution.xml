@@ -1,0 +1,28 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <name>Chapter_14_4_solution</name>
+         <namebangla>প্রশ্ন ১৪.৪.৩</namebangla>
+         <nameenglish>Chapter 14 </nameenglish>
+         <imagename>formula.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_14_4_Q_3.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_14_4</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+ </ItemIndexlist>

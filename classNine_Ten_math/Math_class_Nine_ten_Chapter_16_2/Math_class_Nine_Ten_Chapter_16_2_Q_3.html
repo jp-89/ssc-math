@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Rectangle.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_16_2.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 16. Question 1</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+ chapter_16_2_Q_3(context1, 20,20,20,180,120,180,120,20);
+ 
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+
+১৬.২.৩। <font color = "blue"> একটি বাগানের  দৈর্ঘ্য 40  মিটার এবং প্রস্থ  30 মিটার। বাগানের ভিতর সমান পাড় বিশিষ্ট একটি পুকুর আছে। পুকুরের ক্ষেত্রফল  বাগানের ক্ষেত্রফলের $1/2$ অংশ হলে,পুকুরের  দৈর্ঘ্য  ও প্রস্থ  নির্ণয় কর।    </font>
+ <BR>
+ <canvas id="myCanvas1" width="200" height="200">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+<font color = "green">সমাধান:</font><BR>
+দেওয়া আছে,<BR>
+জমির দৈর্ঘ্য  =  40 মিটার <BR>
+জমির   প্রস্থ  =   30  মিটার <BR>
+
+ধরি,<font color = "blue"> পাড়ের বিস্তার = a  মিটার</font> <BR>
+বাগানের ক্ষেত্রফল = দৈর্ঘ্য $&times; $ প্রস্থ  <BR>
+=$ 40  &times;30 $   বর্গ মিটার<BR>
+=<font color = "blue"> 1200 বর্গ মিটার</font> <BR><BR>
+ পুকুরের ক্ষেত্রফল = বাগানের ক্ষেত্রফল $&times;1/2$<BR>
+ = 1200 $&times;1/2$ বর্গ মিটার<BR>
+ = 600 বর্গ মিটার<BR>
+
+<font color = "blue">পাড় বাদে বাগানের দৈর্ঘ্য </font> =  (40  - 2 &times;a)মিটার <BR>
+= 40 -2a  মিটার <BR>
+<font color = "blue">পাড় বাদে  বাগানের   প্রস্থ </font> =  ( 30    - 2 &times;3)মিটার <BR>
+= 30 -2a   মিটার <BR>
+পাড় বাদে  বাগানের   ক্ষেত্রফল =  পুকুরের  ক্ষেত্রফল <BR>
+=(40 -2a )(30 -2a)   বর্গ মিটার<BR><BR>
+<font color = "blue">শর্তানুসারে,</font><BR>
+(40 -2a )(30 -2a)  = 600 <BR>
+বা, $   1200 -80a -60a +4a^2 = 600 $<BR>
+বা, $   4a^2 -140a +1200-600 =0 $<BR>
+বা, $   4a^2 -140a +600 =0 $<BR>
+বা, $   a^2 -35a +150 =0 $<BR>
+বা, $   a^2 -30a-5a +150 =0 $<BR>
+বা, $   a(a -30)-5(a -30) =0 $<BR>
+বা, $   (a -30)(a -5) =0 $<BR>
+a-30 = 0<BR> 
+a= 30 [ <font color = "blue">গ্রহণ যোগ্য নয়।  কারন উভয় পাশের   পাড়  30*2 = 60  মিটার হতে পারে না </font> ] <BR><BR>
+আবার,<BR>
+a-5 = 0<BR>
+a = 5 [ গ্রহণ যোগ্য><BR>
+অতএব,<BR>
+<font color = "blue">
+ পুকরের দৈর্ঘ্য  = 40 - 2&times;5 = 30 মিটার।<BR>
+পুকরের  প্রস্থ = 30 - 2&times;5  = 20মিটার।<BR>
+</font>
+<BR><BR><BR><BR>
+</body>
+</html>

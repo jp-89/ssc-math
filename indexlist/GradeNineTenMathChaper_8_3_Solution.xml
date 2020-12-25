@@ -1,0 +1,94 @@
+﻿
+ <ItemIndexlist>
+     <item>
+         <name>Chapter_8_3_solution</name>
+         <namebangla>প্রশ্ন ৮.৩.১</namebangla>
+         <nameenglish>Chapter 8.3 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_3_Q_1.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_3</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_3_solution</name>
+         <namebangla>প্রশ্ন ৮.৩.২</namebangla>
+         <nameenglish>Chapter 8.3 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_3_Q_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_3</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_3_solution</name>
+         <namebangla>প্রশ্ন ৮.৩.৪</namebangla>
+         <nameenglish>Chapter 8.3 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_3_Q_4.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_3</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_8_3_solution</name>
+         <namebangla>প্রশ্ন ৮.৩.৬</namebangla>
+         <nameenglish>Chapter 8.3 </nameenglish>
+         <imagename>img_triangle.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_8_3_Q_6.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_8_3</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+
+ </ItemIndexlist>

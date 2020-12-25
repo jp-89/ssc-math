@@ -1,0 +1,751 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <group>Introduction</group>
+         <groupTitleBangla>ভূমিকা </groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>Communication</name>
+         <namebangla>ভূমিকা </namebangla>
+         <resourceid></resourceid>
+         <indexListfile>indexlist/Introduction.xml</indexListfile>
+         <indexListtype>Introduction</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Communication</group>
+         <groupTitleBangla>মন্তব্য  ও যোগাযোগ</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>Communication</name>
+         <namebangla>মন্তব্য  ও যোগাযোগ</namebangla>
+         <resourceid></resourceid>
+         <indexListfile>indexlist/Communication.xml</indexListfile>
+         <indexListtype>Communication</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Formula</group>
+         <groupTitleBangla>ফরমূলা সমূহ</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ফরমূলা সমূহ </namebangla>
+          <resourceid></resourceid>
+         <indexListfile>indexlist/formulaIndexList.xml</indexListfile>
+         <indexListtype>Formula</indexListtype>
+          <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+<!--
+     <item>
+         <group>TrigonmetryFormula</group>
+         <groupTitleBangla>Trigonmetry Formula</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>Trigonmetry Formula </namebangla>
+         <resourceid></resourceid>
+         <indexListfile>indexlist/TrigonmetryFormula.xml</indexListfile>
+         <indexListtype>TrigonmetryFormula</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+-->
+     <item>
+         <group>Chapter_1_solution</group>
+         <groupTitleBangla>বাস্তব সংখ্যা -অনুশীলনী ১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বাস্তব সংখ্যা -অনুশীলনী ১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+
+     <item>
+         <group>Chapter_2_1_solution</group>
+         <groupTitleBangla>সেট ও ফাংশন -২.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সেট ও ফাংশন -২.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_2_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_2_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_2_2_solution</group>
+         <groupTitleBangla>অম্বয়-সম্পর্ক -২.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অম্বয়-সম্পর্ক -২.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_2_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_2_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <item>
+         <group>Chapter_3_1_solution</group>
+         <groupTitleBangla>বীজগণিতিক  রাশি -বর্গ- অনুশীলনী ৩.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বীজগণিতিক  রাশি -বর্গ -অনুশীলনী ৩.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_3_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_3_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+     <group>Chapter_3_2_solution</group>
+     <groupTitleBangla>বীজগণিতিক  রাশি -ঘন - অনুশীলনী ৩.২</groupTitleBangla>
+     <groupimage>formula.png</groupimage>
+     <name>mainDrawerItem</name>
+     <namebangla>বীজগণিতিক  রাশি -ঘন  -অনুশীলনী ৩.২</namebangla>
+     <indexListfile>indexlist/GradeNineTenMathChaper_3_2_Solution.xml</indexListfile>
+     <indexListtype>GradeNineTenMathChaper_3_2_Solution</indexListtype>
+     <display>true</display>
+     <displaytype>document</displaytype>
+ </item>
+
+     <item>
+         <group>Chapter_3_3_solution</group>
+         <groupTitleBangla>উৎপাদকে বিশ্লেষণ- অনুশীলনী ৩.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>উৎপাদকে বিশ্লেষণ- অনুশীলনী ৩.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_3_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_3_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_3_4_solution</group>
+         <groupTitleBangla>অনুশীলনী ৩.৪</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ৩.৪</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_3_4_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_3_4_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_3_5_solution</group>
+         <groupTitleBangla>সমস্যার সমাধানে বীজগাণিতিক সূত্র গঠন ও প্রয়োগ - অনুশীলনী ৩.৫</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সমস্যার সমাধানে বীজগাণিতিক সূত্র গঠন ও প্রয়োগ - অনুশীলনী ৩.৫</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_3_5_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_3_5_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_4_1_solution</group>
+         <groupTitleBangla>সূচক  - অনুশীলনী ৪.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সূচক  - অনুশীলনী ৪.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_4_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_4_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_4_2_solution</group>
+         <groupTitleBangla>লগারিদম - অনুশীলনী ৪.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>লগারিদম - অনুশীলনী ৪.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_4_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_4_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_4_3_solution</group>
+         <groupTitleBangla>সূচক ও লগারিদম - অনুশীলনী ৪.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সূচক ও লগারিদম - অনুশীলনী ৪.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_4_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_4_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_5_1_solution</group>
+         <groupTitleBangla>এক চলক বিশিষ্ট সমীকরণ-৫.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>এক চলক বিশিষ্ট সমীকরণ-৫.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_5_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_5_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_5_2_solution</group>
+         <groupTitleBangla>এক চলক বিশিষ্ট দ্বিঘাত সমীকরণ-৫.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>এক চলক বিশিষ্ট দ্বিঘাত সমীকরণ-৫.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_5_2_Solution.xml</indexListfile>
+         <indexListtype>Math_class_Nine_ten_Chapter_5_2</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_6_3_solution</group>
+         <groupTitleBangla> ত্রিভুজ - অনুশীলনী ৬.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ত্রিভুজ - অনুশীলনী ৬.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_6_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_6_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_7_1_solution</group>
+         <groupTitleBangla> ব্যবহারিক জ্যামিতি -  ত্রিভুজ - অনুশীলনী ৭.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ব্যবহারিক জ্যামিতি -  ত্রিভুজ - অনুশীলনী ৭.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_7_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_7_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_7_2_solution</group>
+         <groupTitleBangla> ব্যবহারিক জ্যামিতি - চতুর্ভুজ - অনুশীলনী ৭.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ব্যবহারিক জ্যামিতি - চতুর্ভুজ - অনুশীলনী ৭.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_7_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_7_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_8_1_solution</group>
+         <groupTitleBangla> বৃত্ত-অনুশীলনী ৮.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বৃত্ত-অনুশীলনী ৮.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_8_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_8_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_8_2_solution</group>
+         <groupTitleBangla> বৃত্ত কেন্দ্রস্থ কোণ - অনুশীলনী ৮.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বৃত্ত কেন্দ্রস্থ কোণ- অনুশীলনী ৮.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_8_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_8_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_8_3_solution</group>
+         <groupTitleBangla> বৃত্তীয় চতুর্ভুজ  - অনুশীলনী ৮.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বৃত্তীয় চতুর্ভুজ  - অনুশীলনী ৮.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_8_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_8_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_8_4_solution</group>
+         <groupTitleBangla> বৃত্তীয় স্পর্শক  - অনুশীলনী ৮.৪</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বৃত্তীয় স্পর্শক  - অনুশীলনী ৮.৪</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_8_4_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_8_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_8_5_solution</group>
+         <groupTitleBangla> বৃত্ত  সম্পর্কীয় সম্পাদ্য - অনুশীলনী ৮.৫</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বৃত্ত  সম্পর্কীয় সম্পাদ্য - অনুশীলনী ৮.৫</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_8_5_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_8_5_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <item>
+         <group>Chapter_9_1_solution</group>
+         <groupTitleBangla>ত্রিকোণমিতি অনুশীলনী ৯.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ত্রিকোণমিতি অনুশীলনী ৯.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_9_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_9_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_9_2_solution</group>
+         <groupTitleBangla>ত্রিকোণমিতি অনুশীলনী ৯.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ত্রিকোণমিতি অনুশীলনী ৯.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_9_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_9_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_10_solution</group>
+         <groupTitleBangla>ত্রিকোণমিতি অনুশীলনী ১০</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ত্রিকোণমিতি অনুশীলনী ১০</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_10_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_10_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_11.1_solution</group>
+         <groupTitleBangla>বীজগণিতীয় অনুপাত সমানুপাত -১১.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বীজগণিতীয় অনুপাত সমানুপাত -১১.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_11_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_10_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_11.2_solution</group>
+         <groupTitleBangla>ধারাবাহিক অনুপাত -১১.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ধারাবাহিক অনুপাত -১১.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_11_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_11_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_12.1_solution</group>
+         <groupTitleBangla>দুই চলক বিশিষ্ট সরল সহ সমীকরণ  অনুশীলনী- ১২.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>দুই চলক বিশিষ্ট সরল সহ সমীকরণ  অনুশীলনী- ১২.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_12_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_12_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_12.2_solution</group>
+         <groupTitleBangla>দুই চলক বিশিষ্ট সরল সহ সমীকরণ  অনুশীলনী- ১২.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>দুই চলক বিশিষ্ট সরল সহ সমীকরণ  অনুশীলনী- ১২.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_12_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_12_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_12.3_solution</group>
+         <groupTitleBangla>লেখচিত্রের সাহায্যে সমাধান - অনুশীলনী ১২.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>লেখচিত্রের সাহায্যে সমাধান - অনুশীলনী ১২.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_12_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_12_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_12.4_solution</group>
+         <groupTitleBangla>বাস্তবভিত্তিক সমস্যার সহ সমীকরণ  গঠন ও সমাধান - অনুশীলনী ১২.৪</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বাস্তবভিত্তিক সমস্যার সহ সমীকরণ  গঠন ও সমাধান - অনুশীলনী ১২.৪</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_12_4_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_12_4_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_13.1_solution</group>
+         <groupTitleBangla> সসীম  সমান্তর  ধারা -  অনুশীলনী ১৩.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সসীম  সমান্তর  ধারা - অনুশীলনী ১৩.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_13_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_13_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_13.2_solution</group>
+         <groupTitleBangla> সসীম  গুণোত্তর ধারা -  অনুশীলনী ১৩.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>সসীম  গুণোত্তর ধারা - অনুশীলনী ১৩.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_13_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_13_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+     <item>
+         <group>Chapter_14_1_solution</group>
+         <groupTitleBangla> অনুপাত, সদৃশতা ও প্রতিসমতা- ১৪.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুপাত, সদৃশতা ও প্রতিসমতা- ১৪.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_14_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_14_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+     <group>Chapter_14_2_solution</group>
+     <groupTitleBangla> অনুপাত, সদৃশতা ও প্রতিসমতা- ১৪.২</groupTitleBangla>
+     <groupimage>formula.png</groupimage>
+     <name>mainDrawerItem</name>
+     <namebangla>অনুপাত, সদৃশতা ও প্রতিসমতা- ১৪.২</namebangla>
+     <indexListfile>indexlist/GradeNineTenMathChaper_14_2_Solution.xml</indexListfile>
+     <indexListtype>GradeNineTenMathChaper_14_2_Solution</indexListtype>
+     <display>true</display>
+     <displaytype>document</displaytype>
+ </item>
+
+     <item>
+         <group>Chapter_14_3_solution</group>
+         <groupTitleBangla> প্রতিসমতা- ১৪.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla> প্রতিসমতা- ১৪.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_14_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_14_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_14_4_solution</group>
+         <groupTitleBangla>ঘূর্ণন প্রতিসমতা- ১৪.৪</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ঘূর্ণন প্রতিসমতা- ১৪.৪</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_14_4_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_14_4_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_15_1_solution</group>
+         <groupTitleBangla>ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য - অনুশীলনী ১৫</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য - অনুশীলনী ১৫</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_15_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_15_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_16_1_solution</group>
+         <groupTitleBangla>পরিমিতি - ত্রিভুজ -অনুশীলনী ১৬.১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>পরিমিতি - ত্রিভুজ -অনুশীলনী ১৬.১</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_16_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_16_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+     <item>
+         <group>Chapter_16_2_solution</group>
+         <groupTitleBangla>পরিমিতি - চতুর্ভুজ- ১৬.২</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>পরিমিতি - চতুর্ভুজ -অনুশীলনী ১৬.২</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_16_2_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_16_2_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_16_3_solution</group>
+         <groupTitleBangla>পরিমিতি -বৃত্ত -অনুশীলনী ১৬.৩</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>পরিমিতি - বৃত্ত --অনুশীলনী ১৬.৩</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_16_3_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_16_3_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_16_4_solution</group>
+         <groupTitleBangla>পরিমিতি -ঘনবস্ত -অনুশীলনী ১৬.৪</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>পরিমিতি - ঘনবস্ত --অনুশীলনী ১৬.৪</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_16_4_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_16_4_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_17_1_solution</group>
+         <groupTitleBangla>পরিসংখ্যান -অনুশীলনী ১৭</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>পরিসংখ্যান -অনুশীলনী ১৭</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_17_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_17_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Math_class_Nine_ten_MCQ</group>
+         <groupTitleBangla>গণিত MCQ  প্রশ্ন উত্তর</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>গণিত MCQ  প্রশ্ন উত্তর</namebangla>
+         <indexListfile>indexlist/GradeNineTenMath_MCQ_Solution.xml</indexListfile>
+         <indexListtype>Math_class_Nine_ten_MCQ</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Math_class_Nine_ten_SrejonShil_MCQ</group>
+         <groupTitleBangla>গণিত সৃজনশীল MCQ  প্রশ্ন উত্তর</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>গণিত সৃজনশীল MCQ  প্রশ্ন উত্তর</namebangla>
+         <indexListfile>indexlist/GradeNineTenMath_SrejonShil_MCQ_Solution.xml</indexListfile>
+         <indexListtype>Math_class_Nine_ten_Srejonshil_MCQ</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_1_solution_srejonshil</group>
+         <groupTitleBangla>বাস্তব সংখ্যা -অনুশীলনী ১-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>বাস্তব সংখ্যা -অনুশীলনী ১-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_1_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_1_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_2_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ২-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ২-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_2_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_2_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_3_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ৩-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ৩-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_3_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_3_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_4_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ৪-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ৪-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_4_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_4_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_5_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ৫-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ৫-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_5_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_5_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_9_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ৯-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ৯-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_9_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_9_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>Chapter_10_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ১০-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ১০-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_10_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_10_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_11_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ১১-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ১১-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_11_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_11_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_12_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ১২-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ১২-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_12_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_12_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_13_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ১৩-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ১৩-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_13_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_13_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <item>
+         <group>Chapter_16_solution_srejonshil</group>
+         <groupTitleBangla>অনুশীলনী ১৬-সৃজনশীল</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <namebangla>অনুশীলনী ১৬-সৃজনশীল</namebangla>
+         <indexListfile>indexlist/GradeNineTenMathChaper_16_srejonshil_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_16_Solution_srejonshil</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <!--
+          <item>
+              <group>MathEditor</group>
+              <groupTitleBangla>ম্যাথ এডিটর</groupTitleBangla>
+              <groupimage>formula.png</groupimage>
+              <name>mainDrawerItem</name>
+              <namebangla>ম্যাথ এডিটর</namebangla>
+              <resourceid></resourceid>
+              <indexListfile>indexlist/MathEditor.xml</indexListfile>
+              <indexListtype>MathEditor</indexListtype>
+              <display>true</display>
+              <displaytype>document</displaytype>
+          </item>
+     -->
+
+
+ </ItemIndexlist>

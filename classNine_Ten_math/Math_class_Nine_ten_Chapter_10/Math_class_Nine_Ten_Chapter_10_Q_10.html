@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/chapter_10.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 10. Question 10</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas3 = document.getElementById('myCanvas3'); // canvas with id="myCanvas"
+ var context3 = canvas3.getContext('2d');
+ chapter10_Q_10(context3, 30,40,30,140,150,140,true,100);
+  drawRoof(context3,30,40,12,10,10);
+ 
+ 
+}
+function drawRoof(context,x1,y1,intervalNum,intervalstep,length){
+var x2= x1+intervalstep;
+var y2= y1-length;
+for(i= 0;i<intervalNum;i++){
+  drawLineBetweenTwoPointsAxis(context,x1,y1,x2,y2,"blue");
+   x1= x2;
+   x2 = x1+intervalstep;
+ }
+
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+
+
+১০.১০।  <font color = "blue"> একটি ঘরের ছাদের কোন বিন্দুতে ঐ বিন্দু থেকে 20  মিটার দূরের ভূতলস্থ একটি বিন্দুর অবনিত কোন $30^0$ হলে ঘরটির উচ্চতা  নির্ণয় কর।   </font>
+ <BR>
+ 
+ <table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<canvas id="myCanvas3" width="230" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+</td>
+</tr>
+</table>
+<font color = "green">সমাধান:</font><BR>
+ধরি, ঘরটির ছাদ AD <BR>
+ছাদের সাথে A বিন্দুতে ভূমির  দিকে AC বরাবর অবনতি কোন  30  ডিগ্রী। <BR>
+BC  এবং AD সমান্তরাল।  <BR>
+
+সুতরাং ∠ACB  =  30 ডিগ্রী [একান্তর কোন]
+উচ্চতা AB  = ?<BR>
+আমরা জানি,<BR>
+<font color = "blue">${\text"লম্ব "}/{\text"অতিভুজ"} = sin30 $</font><br >
+বা,$ {AB }/{AC } = sin30 $<BR>
+বা,$ {AB }/{AC } = sin30 $<BR>
+বা,$ AB  = AC &times;sin30 $<BR>
+বা $ AB  =20 &times;1/2 $<BR>
+বা,$ AB  =10 $<BR>
+
+<font color = "green">  ঘরটির উচ্চতা  10   মিটার। </font><BR>
+<BR><BR>
+</body>
+</html>

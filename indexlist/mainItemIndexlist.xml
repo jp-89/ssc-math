@@ -1,0 +1,54 @@
+﻿
+ <ItemIndexlist>
+
+     <item>
+         <group>Formula</group>
+         <groupTitleBangla>ফরমূলা সমূহ</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+          <resourceid></resourceid>
+         <indexListfile>formulaIndexList.xml</indexListfile>
+         <indexListtype>Formula</indexListtype>
+         <folder>Formulas</folder>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>Chapter_1_solution</group>
+         <groupTitleBangla>বাস্তব সংখ্যা -অনুশীলনী ১</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <indexListfile>GradeNineTenMathChaper_1_Solution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathChaper_1_Solution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <group>GradeEightMathSolution</group>
+         <groupTitleBangla>অষ্টম শ্রেণী গণিত সমাধান</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+          <indexListfile>GradeEightMathSolution.xml</indexListfile>
+         <indexListtype>GradeEightMathSolution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <group>GradeNineTenMathSolution</group>
+         <groupTitleBangla>নবম দশম শ্রেণী গণিত সমাধান</groupTitleBangla>
+         <groupimage>formula.png</groupimage>
+         <name>mainDrawerItem</name>
+         <resourceid></resourceid>
+         <indexListfile>GradeNineTenMathSolution.xml</indexListfile>
+         <indexListtype>GradeNineTenMathSolution</indexListtype>
+         <display>true</display>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+ </ItemIndexlist>

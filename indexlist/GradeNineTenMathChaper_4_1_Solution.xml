@@ -1,0 +1,391 @@
+﻿
+ <ItemIndexlist>
+ 
+     <item>
+           <name>Chapter_4_1_solution</name>
+           <namebangla>প্রশ্ন ৪.১.১</namebangla>
+           <nameenglish>Chapter 4.1 </nameenglish>
+           <imagename>img_flower.png</imagename>
+           <imagepath>images</imagepath>
+           <resourceid></resourceid>
+           <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_1.html</banglafile>
+           <englishfile></englishfile>
+           <indexListfile></indexListfile>
+           <folder></folder>
+           <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+           <classGroup>classNine_Ten_math</classGroup>
+
+           <englishFileFolder></englishFileFolder>
+           <url></url>
+           <actionid></actionid>
+           <display>true</display>
+          <evaluationDisplay>true</evaluationDisplay>
+           <displaytype>document</displaytype>
+      </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.২</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_2.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.৩</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_3.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.৪</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_4.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.৫</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_5.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.৫</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_5.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.৬-৯</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_6_9.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১০</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_10.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১১</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_11.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+	 
+	 <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১২</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_12.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>true</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৩</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_13.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৪</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_14.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৫</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_15.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৬</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_16.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৭</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_17.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৮</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_18.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+     <item>
+         <name>Chapter_4_1_solution</name>
+         <namebangla>প্রশ্ন ৪.১.১৯-২২</namebangla>
+         <nameenglish>Chapter 4.1 </nameenglish>
+         <imagename>img_flower.png</imagename>
+         <imagepath>images</imagepath>
+         <resourceid></resourceid>
+         <banglafile>Math_class_Nine_Ten_Chapter_4_1_Q_19_22.html</banglafile>
+         <englishfile></englishfile>
+         <indexListfile></indexListfile>
+         <folder></folder>
+         <banglaFileFolder>Math_class_Nine_ten_Chapter_4_1</banglaFileFolder>
+         <classGroup>classNine_Ten_math</classGroup>
+
+         <englishFileFolder></englishFileFolder>
+         <url></url>
+         <actionid></actionid>
+         <display>true</display>
+         <evaluationDisplay>false</evaluationDisplay>
+         <displaytype>document</displaytype>
+     </item>
+
+
+
+
+
+ </ItemIndexlist>

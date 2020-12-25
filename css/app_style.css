@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: MyFont;
-    src: url("file:///android_asset/font/kalpurush.ttf")
+    src: url("../font/kalpurush.ttf")
 }
 
 .topic_background{
